@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JobMatch AI</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/test.css') }}">
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <a href="/uh">← Back</a>
+    </div>
+    <nav>
+      <a href="/l">logout</a>
+    </nav>
+  </header>
+  <div class="container">
+    <!-- Header -->
+
+    <!-- Main Section -->
+    <main>
+      <section class="trending-jobs-section">
+        <h1>Trending Jobs</h1>
+        <p>Explore current job openings and their required skills</p>
+        <div class="job-cards">
+          {% for job in jobs %}
+          <div class="job-card">
+            <h2>{{ job['Job Title'] }}</h2>
+            <p>💼 {{ job['Industry'] }}</p>
+            <p>⏳ {{ job['Experience Level'] }}</p>
+            <p>💰 {{ job['Salary Range'] }}</p>
+            <p>Required Skills: {{ job['Required Skills'] }}</p>
+          </div>
+          {% endfor %}
+        </div>
+
+        <!-- Pagination -->
+        <div class="pagination" style="display: flex; justify-content: space-between; margin-top: 20px;">
+          {% if prev_page %}
+          <a href="{{ url_for('home', page=prev_page) }}" 
+             style="text-decoration: none; color: white; background-color: blue; padding: 10px 20px; border-radius: 5px;">
+             ← Previous
+          </a>
+          {% endif %}
+          {% if next_page %}
+          <a href="{{ url_for('home', page=next_page) }}" 
+             style="text-decoration: none; color: white; background-color: blue; padding: 10px 20px; border-radius: 5px;">
+             Next →
+          </a>
+          {% endif %}
+        </div>        
+      </section>
+    </main>
+  </div>
+</body>
+</html>

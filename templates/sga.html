@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JobMatch AI</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/test.css') }}">
+  <script>
+    // Function to handle the Analyze button click
+    async function analyzeSkillGap() {
+      const skillsInput = document.getElementById("skills").value.trim();
+      const targetJob = document.getElementById("target-job").value;
+      const resultDiv = document.getElementById("result");
+
+      // Clear previous results
+      resultDiv.innerHTML = "";
+
+      if (!skillsInput || targetJob === "Select a job...") {
+        resultDiv.innerHTML = `<p class="error">Please provide your skills and select a target job.</p>`;
+        return;
+      }
+
+      // Prepare data to send to the Flask backend
+      const data = {
+        skills: skillsInput,
+        target_job: targetJob
+      };
+
+      try {
+        // Send a POST request to the Flask backend
+        const response = await fetch('/analyze', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify(data)
+        });
+
+        // Parse the JSON response
+        const result = await response.json();
+        if (response.ok) {
+          if (result.message) {
+            // Display the message from the backend
+            resultDiv.innerHTML = `<p class="success">${result.message}</p>`;
+          } else if (result.missing_skills && result.missing_skills.length > 0) {
+            // Display missing skills as a list
+            resultDiv.innerHTML = `
+              <p class="info">You are missing the following skills:</p>
+              <ul>${result.missing_skills.map(skill => `<li>${skill}</li>`).join('')}</ul>
+            `;
+          } else {
+            // If no skills are missing
+            resultDiv.innerHTML = `<p class="success">You have all the required skills for the target job!</p>`;
+          }
+        } else {
+          resultDiv.innerHTML = `<p class="error">${result.message || result.error}</p>`;
+        }
+      } catch (error) {
+        console.error('Error:', error);
+        resultDiv.innerHTML = `<p class="error">An error occurred. Please try again.</p>`;
+      }
+    }
+  </script>
+  <style>
+    /* Add some basic styles */
+    .error { color: red; }
+    .success { color: green; }
+    .info { color: blue; }
+    ul { list-style-type: square; margin-left: 20px; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <a href="/uh">← Back</a>
+    </div>
+    <nav>
+      <a href="/l">logout</a>
+    </nav>
+  </header>
+  <div class="container">
+
+
+    <!-- Main Section -->
+    <main>
+      <!-- Skill Gap Analysis Section -->
+      <section class="skill-gap-section">
+        <h1>Skill Gap Analysis</h1>
+        <p>Find out what skills you need for your dream job</p>
+        <div class="form-group">
+          <label for="skills">Your Skills</label>
+          <input type="text" id="skills" placeholder="Type your skills (e.g., JavaScript, Project Management)">
+        </div>
+        <div class="form-group">
+          <label for="target-job">Select Target Job</label>
+          <select id="target-job">
+            <option>Select a job...</option>
+            <option>Software Engineer</option>
+            <option>Data Analyst</option>
+            <option>Network Engineer</option>
+            <option>Cloud Architect</option>
+            <option>Cybersecurity Analyst</option>
+            <option>IT Project Manager</option>
+            <option>Data Scientist</option>
+            <option>DevOps Engineer</option>
+            <option>IT Support Analyst</option>
+            <option>UX/UI Designer</option>
+            <option>Database Analyst</option>
+            <option>UI Developer</option>
+            <option>System Administrator</option>
+            <option>AI/ML Engineer</option>
+            <option>IT Auditor</option>
+            <option>Network Security Engineer</option>
+            <option>Software Tester</option>
+            <option>Cloud Solutions Architect</option>
+            <option>IT Consultant</option>
+            <option>Front-end Developer</option>
+            <option>Business Analyst</option>
+            <option>IT Helpdesk Support</option>
+            <option>DevSecOps Engineer</option>
+            <option>Data Engineer</option>
+            <option>IT Trainer</option>
+            <option>Cloud Security Engineer</option>
+            <option>IT Procurement Specialist</option>
+            <option>UX Researcher</option>
+            <option>Blockchain Developer</option>
+            <option>IT Risk Analyst</option>
+            <option>Cloud Support Engineer</option>
+            <option>IT Sales Manager</option>
+            <option>Data Privacy Officer</option>
+            <option>Software Architect</option>
+            <option>IT Quality Analyst</option>
+            <option>Mobile App Developer</option>
+            <option>IT Procurement Manager</option>
+            <option>IT Compliance Officer</option>
+            <option>Full-stack Developer</option>
+            <option>IT Business Analyst</option>
+            <option>IT Trainer Assistant</option>
+            <option>AI Ethics Consultant</option>
+            <option>IT Support Specialist</option>
+            <option>Data Analytics Manager</option>
+            <option>IT Project Coordinator</option>
+            <option>Cloud Solutions Analyst</option>
+            <option>IT Governance Manager</option>
+            <option>Cybersecurity Engineer</option>
+            <option>IT Procurement Analyst</option>
+            <option>UX Designer</option>
+            <option>IT Change Manager</option>
+            <option>IT Service Desk Analyst</option>
+            <option>Cloud Security Analyst</option>
+            <option>IT Business Continuity Manager</option>
+            <option>QA Automation Engineer</option>
+            <option>Data Governance Analyst</option>
+            <option>Machine Learning Engineer</option>
+            <option>IT Asset Manager</option>
+            <option>IT Security Consultant</option>
+            <option>Data Analyst Intern</option>
+            <option>IT Sales Representative</option>
+            <option>Cloud Migration Specialist</option>
+            <option>IT Procurement Coordinator</option>
+            <option>IT Analyst Trainee</option>
+            <option>UX Research Assistant</option>
+            <option>IT Compliance Specialist</option>
+            <option>Software Development Intern</option>
+            <option>Network Administrator Trainee</option>
+            <option>Cloud Solutions Intern</option>
+          </select>
+        </div>
+        <button class="analyze-btn" onclick="analyzeSkillGap()">Analyze Skill Gap</button>
+
+        <!-- Result Display Section -->
+        <div id="result" style="margin-top: 20px;"></div>
+      </section>
+    </main>
+  </div>
+</body>
+</html>

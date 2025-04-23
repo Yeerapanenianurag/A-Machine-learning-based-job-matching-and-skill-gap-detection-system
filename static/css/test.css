@@ -1,0 +1,151 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fc;
+  color: #333;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+
+/* Header Styles */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+header .logo {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #6b47dc;
+}
+header nav a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: #6b47dc;
+  font-weight: 600;
+}
+header nav a:hover {
+  text-decoration: underline;
+}
+
+.sign-in {
+  background-color: #6a5acd;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Main Sections */
+main {
+  text-align: center;
+}
+
+/* Home Section */
+.home-section h1 {
+  font-size: 32px;
+  color: #6a5acd;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.card {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  width: 200px;
+  text-align: left;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card h2 {
+  color: #333;
+  font-size: 18px;
+}
+
+.card p {
+  font-size: 14px;
+  color: #666;
+}
+
+.card a {
+  font-size: 20px;
+  text-decoration: none;
+  color: #6a5acd;
+  font-weight: bold;
+}
+
+/* Skill Gap Analysis */
+.skill-gap-section {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.form-group {
+  margin: 20px 0;
+}
+
+.form-group input,
+.form-group select {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.analyze-btn {
+  background-color: #6a5acd;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Trending Jobs */
+.trending-jobs-section {
+  margin-top: 40px;
+}
+
+.job-cards {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.job-card {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  width: 250px;
+  text-align: left;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.job-card h2 {
+  color: #333;
+}
+
+.job-card p {
+  font-size: 14px;
+  color: #666;
+}

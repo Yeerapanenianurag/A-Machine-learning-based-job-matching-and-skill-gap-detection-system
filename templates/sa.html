@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JobMatch AI</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/t2.css') }}">
+</head>
+<body>
+  <div class="container">
+    <!-- Header -->
+    <header>
+      <div class="logo">
+        <a href="/uh">← Back</a>
+      </div>
+      <nav>
+        <a href="/l">logout</a>
+      </nav>
+    </header>
+
+    <!-- Main Sections -->
+    <main>
+      <!-- Home Section -->
+      <section class="home-section">
+        <h1>Find Jobs Based on Your Skills</h1>
+        <p>Enter your skills to discover matching job opportunities</p>
+        <form method="POST" action="/sa1">
+          <div class="skills-input">
+            <label for="skills">Your Skills</label>
+            <input type="text" id="skills" name="skills" placeholder="Type a skill (e.g., JavaScript, Project Management)">
+          </div>
+          <br>
+          <br>
+          <button type="submit">Find Jobs Roles</button>
+        </form>
+
+        <!-- Conditionally Display Results -->
+        {% if predicted_job_title or predicted_job_description or matching_job_titles %}
+          <div class="results">
+            {% if predicted_job_title %}
+              <p><strong>Predicted Job Title:</strong> {{ predicted_job_title }}</p>
+            {% endif %}
+            {% if predicted_job_description %}
+              <p><strong>Job Description:</strong> {{ predicted_job_description }}</p>
+            {% endif %}
+            {% if matching_job_titles %}
+              <p><strong>Matching Job Titles:</strong> {{ matching_job_titles }}</p>
+            {% endif %}
+          </div>
+        {% endif %}
+      </section>
+    </main>
+  </div>
+</body>
+</html>
+
+
+
+

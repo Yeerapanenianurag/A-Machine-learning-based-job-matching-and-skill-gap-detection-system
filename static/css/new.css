@@ -1,0 +1,137 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fc;
+  color: #333;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+header .logo {
+  display: flex;
+  align-items: center;
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #6b47dc;
+}
+header .logo img {
+  height: 30px;
+  margin-right: 10px;
+}
+header nav {
+  display: flex;
+  align-items: center;
+}
+header nav a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: #6b47dc;
+  font-weight: 600;
+}
+header nav a:hover {
+  text-decoration: underline;
+}
+.hero {
+  text-align: center;
+  padding: 60px 20px;
+}
+.hero h1 {
+  font-size: 2.5em;
+  color: #6b47dc;
+}
+.hero p {
+  margin-top: 10px;
+  font-size: 1.2em;
+  color: #666;
+}
+.cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px 40px;
+  padding: 40px 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+.card {
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+.card:hover {
+  transform: translateY(-5px);
+}
+.card h3 {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+  color: #333;
+}
+.card p {
+  color: #666;
+  font-size: 0.9em;
+  margin-bottom: 20px;
+}
+.card a {
+  text-decoration: none;
+  color: #6b47dc;
+  font-weight: bold;
+  font-size: 0.9em;
+}
+.form-container {
+  max-width: 400px;
+  margin: 50px auto;
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+.form-container h2 {
+  margin-bottom: 20px;
+  color: #6b47dc;
+}
+.form-container form {
+  display: flex;
+  flex-direction: column;
+}
+.form-container label {
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+.form-container input {
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+.form-container button {
+  background-color: #6b47dc;
+  color: #ffffff;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+}
+.form-container button:hover {
+  background-color: #5a3dbd;
+}
+.form-container .alt-action {
+  text-align: center;
+  margin-top: 10px;
+}
+.form-container .alt-action a {
+  color: #6b47dc;
+  text-decoration: none;
+  font-weight: bold;
+}
+.form-container .alt-action a:hover {
+  text-decoration: underline;
+}

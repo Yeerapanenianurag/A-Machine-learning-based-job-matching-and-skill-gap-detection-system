@@ -1,0 +1,729 @@
+Job Title,Job Description,Required Skills,Location,Company,Experience Level,Industry,Job Type
+Software Engineer,Develop software,"Java, Python",London,ABC Tech,Entry-Level,Technology,Full-Time
+Data Analyst,Analyze data,"SQL, Excel",Manchester,XYZ Analytics,Junior,Analytics,Full-Time
+Network Engineer,Maintain networks,"Cisco, WAN",Birmingham,Network Solutions,Mid-Level,Networking,Full-Time
+Cloud Architect,Design cloud,"AWS, Azure",Edinburgh,Cloud Innovators,Senior,Cloud Computing,Full-Time
+Cybersecurity Analyst,Protect data,Cybersecurity,Glasgow,SecureGuard,Mid-Level,Security,Full-Time
+IT Project Manager,Manage projects,"PMP, Agile",Leeds,Project Leaders,Senior,Project Management,Full-Time
+Data Scientist,Analyze big data,"R, Python",Bristol,Data Insights,Mid-Level,Data Science,Full-Time
+DevOps Engineer,Streamline devops,"Docker, Jenkins",Newcastle,DevOps Solutions,Mid-Level,DevOps,Full-Time
+IT Support Analyst,Provide IT support,"Windows, Linux",Sheffield,IT Services,Entry-Level,Support,Full-Time
+UX/UI Designer,Design user interfaces,UI/UX Design,Cardiff,Design Studios,Junior,Design,Full-Time
+Database Analyst,Manage databases,"SQL, Oracle, Database Management",London,Data Solutions,Mid-Level,Database,Full-Time
+UI Developer,Design user interfaces,"HTML, CSS, JavaScript",Manchester,Web Creations,Junior,Web Development,Full-Time
+System Administrator,Maintain systems,"Windows Server, Active Directory",Birmingham,System Services,Mid-Level,IT Services,Full-Time
+AI/ML Engineer,Develop AI models,"Python, TensorFlow, AI/ML",Edinburgh,AI Innovations,Mid-Level,Artificial Intelligence,Full-Time
+IT Auditor,Audit IT systems,"Audit, Risk Management",Glasgow,Audit Experts,Mid-Level,Audit,Full-Time
+Network Security Engineer,Secure networks,"Firewall, VPN, Security",Leeds,SecureNet,Mid-Level,Security,Full-Time
+Software Tester,Test software,"Manual Testing, Bug Tracking",Bristol,QA Solutions,Entry-Level,Quality Assurance,Full-Time
+Cloud Solutions Architect,Design cloud solutions,"AWS, Azure, Architecture",Newcastle,Cloud Architects,Senior,Cloud Computing,Full-Time
+IT Consultant,Provide IT consultancy,"Consulting, IT Strategy",Sheffield,IT Consultants,Senior,Consulting,Full-Time
+Front-end Developer,Develop web interfaces,"JavaScript, React",Cardiff,Web Studios,Mid-Level,Web Development,Full-Time
+Business Analyst,Analyze business needs,"Business Analysis, Requirements",London,Biz Analysts,Mid-Level,Business Analysis,Full-Time
+IT Helpdesk Support,Provide IT support,"Troubleshooting, Customer Service",Manchester,IT Helpdesk,Entry-Level,Support,Full-Time
+DevSecOps Engineer,Secure DevOps pipeline,"DevSecOps, CI/CD",Birmingham,Secure DevOps,Mid-Level,DevOps,Full-Time
+Data Engineer,Build data pipelines,"ETL, Big Data, SQL",Edinburgh,Data Engineers,Mid-Level,Data Engineering,Full-Time
+IT Trainer,Train IT professionals,"Training, IT Education",Glasgow,IT Training,Junior,Education,Full-Time
+Cloud Security Engineer,Secure cloud,"Cloud Security, Encryption",Leeds,SecureCloud,Mid-Level,Security,Full-Time
+IT Procurement Specialist,Procure IT resources,"Procurement, Vendor Management",Bristol,ProcureIT,Mid-Level,Procurement,Full-Time
+UX Researcher,Conduct UX research,"User Research, UX Design",Newcastle,UX Labs,Mid-Level,Design,Full-Time
+Blockchain Developer,Develop blockchain,"Blockchain, Solidity",Sheffield,Blockchain Tech,Mid-Level,Blockchain,Full-Time
+IT Risk Analyst,Analyze IT risks,"Risk Assessment, Compliance",Cardiff,Risk Analysts,Mid-Level,Risk Management,Full-Time
+Cloud Support Engineer,Support cloud,"AWS, Azure, Cloud Services",London,Cloud Support,Junior,Support,Full-Time
+IT Sales Manager,Manage IT sales team,"Sales, IT Sales",Manchester,Sales Leaders,Senior,Sales,Full-Time
+Data Privacy Officer,Ensure data privacy,"GDPR, Data Protection",Birmingham,Data Privacy,Mid-Level,Data Privacy,Full-Time
+Software Architect,Design software,"Architecture, Design Patterns",Edinburgh,Software Architects,Senior,Software Design,Full-Time
+IT Quality Analyst,Ensure software quality,"QA, Testing",Glasgow,QA Analysts,Mid-Level,Quality Assurance,Full-Time
+Mobile App Developer,Develop mobile apps,"iOS, Android, Mobile Development",Leeds,Mobile Devs,Mid-Level,Mobile Development,Full-Time
+IT Procurement Manager,Manage procurement,"Procurement, Supply Chain",Bristol,Procurement Mgmt,Senior,Procurement,Full-Time
+IT Compliance Officer,Ensure IT compliance,"Compliance, Regulations",Newcastle,Compliance Experts,Mid-Level,Compliance,Full-Time
+Full-stack Developer,Develop full-stack apps,"JavaScript, Node.js",Sheffield,Full-stack Devs,Mid-Level,Web Development,Full-Time
+IT Business Analyst,Analyze IT needs,"Business Analysis, IT Strategy",Cardiff,IT Analysts,Mid-Level,Business Analysis,Full-Time
+IT Trainer Assistant,Assist IT training,"Training, IT Education",London,IT Training Assist,Entry-Level,Education,Full-Time
+AI Ethics Consultant,Ensure AI ethics,"Ethics, AI Governance",Manchester,AI Ethics,Mid-Level,Ethics,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Birmingham,IT Support Specialists,Junior,Support,Full-Time
+Data Analytics Manager,Manage data analytics,"Data Analytics, Team Management",Edinburgh,Data Managers,Senior,Analytics,Full-Time
+IT Project Coordinator,Coordinate IT projects,Project Coordination,Glasgow,Project Coordinators,Mid-Level,Project Management,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Leeds,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance",Bristol,IT Governance Mgmt,Senior,Governance,Full-Time
+Cybersecurity Engineer,Secure IT systems,"Cybersecurity, Penetration Testing",Newcastle,Cybersecurity Engineers,Mid-Level,Security,Full-Time
+IT Procurement Analyst,Analyze IT procurement,Procurement Analysis,Cardiff,Procurement Analysts,Mid-Level,Procurement,Full-Time
+UX Designer,Design user experiences,"UX Design, Prototyping",London,UX Designers,Mid-Level,Design,Full-Time
+IT Change Manager,Manage IT changes,"Change Management, IT Strategy",Manchester,Change Managers,Senior,Change Management,Full-Time
+IT Service Desk Analyst,Provide service desk support,"IT Service Desk, Troubleshooting",Birmingham,Service Desk,Entry-Level,Support,Full-Time
+Cloud Security Analyst,Analyze cloud security,"Cloud Security, Threat Analysis",Edinburgh,Cloud Security,Mid-Level,Security,Full-Time
+IT Business Continuity Manager,Ensure business continuity,"Business Continuity, Disaster Recovery",Glasgow,Continuity Managers,Senior,Business Continuity,Full-Time
+QA Automation Engineer,Automate software testing,"Test Automation, Selenium",Leeds,QA Automation,Mid-Level,Quality Assurance,Full-Time
+Data Governance Analyst,Manage data governance,"Data Governance, Data Quality",Bristol,Data Governance,Mid-Level,Governance,Full-Time
+IT Trainer Specialist,Specialize in IT training,"Training, Specialization",Newcastle,IT Training Specialists,Mid-Level,Education,Full-Time
+Machine Learning Engineer,Develop ML models,"Machine Learning, Python",Cardiff,ML Engineers,Mid-Level,Machine Learning,Full-Time
+IT Asset Manager,Manage IT assets,"IT Asset Management, Inventory",London,Asset Managers,Mid-Level,Asset Management,Full-Time
+IT Security Consultant,Provide security consultancy,Security Consulting,Manchester,Security Consultants,Mid-Level,Security,Full-Time
+Data Analyst Intern,Analyze data as an intern,"SQL, Excel",Birmingham,Data Interns,Internship,Analytics,Full-Time
+IT Sales Representative,Sell IT solutions,"Sales, IT Sales",Edinburgh,Sales Reps,Junior,Sales,Full-Time
+Cloud Migration Specialist,Migrate to the cloud,"Cloud Migration, AWS, Azure",Glasgow,Cloud Migrators,Mid-Level,Cloud Computing,Full-Time
+IT Procurement Coordinator,Coordinate IT procurement,Procurement Coordination,Leeds,Procurement Coordinators,Mid-Level,Procurement,Full-Time
+IT Analyst Trainee,Train as an IT analyst,"IT Analysis, Training",Bristol,IT Analyst Trainees,Entry-Level,Training,Full-Time
+UX Research Assistant,Assist in UX research,"UX Research, Support",Newcastle,UX Research Assistants,Entry-Level,Research,Full-Time
+IT Compliance Specialist,Ensure IT compliance,"Compliance, Regulations",Cardiff,Compliance Specialists,Mid-Level,Compliance,Full-Time
+Software Development Intern,Intern in software dev,"Programming, Internship",London,Dev Interns,Internship,Software Development,Full-Time
+Network Administrator Trainee,Train as network admin,"Networking, Training",Manchester,Network Admin Trainees,Entry-Level,Networking,Full-Time
+Cloud Solutions Intern,Intern in cloud solutions,"Cloud Computing, Internship",Birmingham,Cloud Interns,Internship,Cloud,Full-Time
+Data Engineer,Build data pipelines,"Big Data, Python, SQL",Cardiff,Data Innovators,Mid-Level,Data Engineering,Full-Time
+Software Developer,Develop software,"Java, C++, Software Design",Leeds,CodeCrafters,Mid-Level,Software Development,Full-Time
+IT Analyst,Analyze IT systems,"IT Analysis, Troubleshooting",Birmingham,IT Insights,Junior,IT Analysis,Full-Time
+Cloud Solutions Architect,Design cloud solutions,"AWS, Azure, Cloud Architecture",Manchester,Cloud Architects,Senior,Cloud Computing,Full-Time
+Cybersecurity Analyst,Protect data,"Cybersecurity, Threat Analysis",Edinburgh,SecureGuard,Mid-Level,Security,Full-Time
+IT Project Manager,Manage projects,"PMP, Agile, Project Management",Glasgow,Project Leaders,Senior,Project Management,Full-Time
+Data Scientist,Analyze big data,"R, Python, Machine Learning",Newcastle,Data Insights,Mid-Level,Data Science,Full-Time
+DevOps Engineer,Streamline devops,"Docker, Jenkins, DevOps",Sheffield,DevOps Solutions,Mid-Level,DevOps,Full-Time
+IT Support Analyst,Provide IT support,"Windows, Linux, Troubleshooting",Cardiff,IT Services,Entry-Level,Support,Full-Time
+UX/UI Designer,Design user interfaces,"UI/UX Design, Prototyping",London,Design Studios,Junior,Design,Full-Time
+Database Analyst,Manage databases,"SQL, Oracle, Database Management",Manchester,Data Solutions,Mid-Level,Database,Full-Time
+UI Developer,Design web interfaces,"HTML, CSS, JavaScript",Birmingham,Web Creations,Junior,Web Development,Full-Time
+System Administrator,Maintain systems,"Windows Server, Networking",Edinburgh,System Services,Mid-Level,IT Services,Full-Time
+AI/ML Engineer,Develop AI models,"Python, TensorFlow, AI/ML",Glasgow,AI Innovations,Mid-Level,Artificial Intelligence,Full-Time
+IT Auditor,Audit IT systems,"Audit, Risk Management",Leeds,Audit Experts,Mid-Level,Audit,Full-Time
+Network Security Engineer,Secure networks,"Security, Firewall",Bristol,SecureNet,Mid-Level,Security,Full-Time
+Software Tester,Test software,"Manual Testing, Bug Tracking",Newcastle,QA Solutions,Entry-Level,Quality Assurance,Full-Time
+Cloud Solutions Architect,Design cloud solutions,"AWS, Azure, Cloud Architecture",Cardiff,Cloud Innovators,Senior,Cloud Computing,Full-Time
+IT Consultant,Provide IT consultancy,"Consulting, IT Strategy",Birmingham,IT Consultants,Senior,Consulting,Full-Time
+Front-end Developer,Develop web interfaces,"JavaScript, React",Edinburgh,Web Studios,Mid-Level,Web Development,Full-Time
+Business Analyst,Analyze business needs,"Business Analysis, Requirements",Glasgow,Biz Analysts,Mid-Level,Business Analysis,Full-Time
+IT Helpdesk Support,Provide IT support,"Troubleshooting, Customer Service",Leeds,IT Helpdesk,Entry-Level,Support,Full-Time
+DevSecOps Engineer,Secure DevOps pipeline,"DevSecOps, CI/CD",Bristol,Secure DevOps,Mid-Level,DevOps,Full-Time
+Data Engineer,Build data pipelines,"ETL, Big Data, SQL",Cardiff,Data Engineers,Mid-Level,Data Engineering,Full-Time
+IT Trainer,Train IT professionals,"Training, IT Education",Manchester,IT Training,Junior,Education,Full-Time
+Cloud Security Engineer,Secure cloud,"Cloud Security, Encryption",Birmingham,SecureCloud,Mid-Level,Security,Full-Time
+IT Procurement Specialist,Procure IT resources,"Procurement, Vendor Management",Edinburgh,ProcureIT,Mid-Level,Procurement,Full-Time
+UX Researcher,Conduct UX research,"User Research, UX Design",Glasgow,UX Labs,Mid-Level,Design,Full-Time
+Blockchain Developer,Develop blockchain,"Blockchain, Solidity",Leeds,Blockchain Tech,Mid-Level,Blockchain,Full-Time
+IT Risk Analyst,Analyze IT risks,"Risk Assessment, Compliance",Cardiff,Risk Analysts,Mid-Level,Risk Management,Full-Time
+Cloud Support Engineer,Support cloud,"AWS, Azure, Cloud Services",London,Cloud Support,Junior,Support,Full-Time
+IT Sales Manager,Manage IT sales team,"Sales, IT Sales",Manchester,Sales Leaders,Senior,Sales,Full-Time
+Data Privacy Officer,Ensure data privacy,"GDPR, Data Protection",Birmingham,Data Privacy,Mid-Level,Data Privacy,Full-Time
+Software Architect,Design software,"Architecture, Design Patterns",Edinburgh,Software Architects,Senior,Software Design,Full-Time
+IT Quality Analyst,Ensure software quality,"QA, Testing",Glasgow,QA Analysts,Mid-Level,Quality Assurance,Full-Time
+Mobile App Developer,Develop mobile apps,"iOS, Android, Mobile Development",Leeds,Mobile Devs,Mid-Level,Mobile Development,Full-Time
+IT Procurement Manager,Manage procurement,"Procurement, Supply Chain",Cardiff,Procurement Mgmt,Senior,Procurement,Full-Time
+IT Compliance Officer,Ensure IT compliance,"Compliance, Regulations",London,Compliance Experts,Mid-Level,Compliance,Full-Time
+Full-stack Developer,Develop full-stack apps,"JavaScript, Node.js",Manchester,Full-stack Devs,Mid-Level,Web Development,Full-Time
+IT Business Analyst,Analyze IT needs,"Business Analysis, IT Strategy",Birmingham,IT Analysts,Mid-Level,Business Analysis,Full-Time
+IT Trainer Assistant,Assist IT training,"Training, IT Education",Edinburgh,IT Training Assist,Entry-Level,Education,Full-Time
+AI Ethics Consultant,Ensure AI ethics,"Ethics, AI Governance",Glasgow,AI Ethics,Mid-Level,Ethics,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Leeds,IT Support Specialists,Junior,Support,Full-Time
+Data Analytics Manager,Manage data analytics,"Data Analytics, Team Management",Cardiff,Data Managers,Senior,Analytics,Full-Time
+IT Project Coordinator,Coordinate IT projects,Project Coordination,London,Project Coordinators,Mid-Level,Project Management,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Manchester,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance",Birmingham,IT Governance Mgmt,Senior,Governance,Full-Time
+Cybersecurity Engineer,Secure IT systems,"Cybersecurity, Penetration Testing",Edinburgh,Cybersecurity Engineers,Mid-Level,Security,Full-Time
+IT Procurement Analyst,Analyze IT procurement,Procurement Analysis,Glasgow,Procurement Analysts,Mid-Level,Procurement,Full-Time
+UX Designer,Design user experiences,"UX Design, Prototyping",Leeds,UX Designers,Mid-Level,Design,Full-Time
+Software Engineer,Develop software,"Java, Python, Software Development",London,Tech Solutions,Mid-Level,Software Development,Full-Time
+Data Analyst,Analyze data,"SQL, Data Visualization",Manchester,Data Insights,Junior,Data Analysis,Full-Time
+Network Engineer,Manage networks,"Cisco, Network Troubleshooting",Birmingham,Network Experts,Mid-Level,Networking,Full-Time
+Cloud Architect,Design cloud solutions,"AWS, Azure, Cloud Architecture",Edinburgh,Cloud Innovators,Senior,Cloud Computing,Full-Time
+Cybersecurity Analyst,Secure IT systems,"Cybersecurity, Threat Analysis",Glasgow,SecureGuard,Mid-Level,Security,Full-Time
+IT Project Manager,Manage projects,"PMP, Agile, Project Management",Leeds,Project Leaders,Senior,Project Management,Full-Time
+Data Scientist,Analyze big data,"R, Python, Machine Learning",Sheffield,Data Insights,Mid-Level,Data Science,Full-Time
+DevOps Engineer,Streamline devops,"Docker, Jenkins, DevOps",Cardiff,DevOps Solutions,Mid-Level,DevOps,Full-Time
+IT Support Analyst,Provide IT support,"Windows, Linux, Troubleshooting",London,IT Services,Entry-Level,Support,Full-Time
+UX/UI Designer,Design user interfaces,"UI/UX Design, Prototyping",Manchester,Design Studios,Junior,Design,Full-Time
+Database Analyst,Manage databases,"SQL, Oracle, Database Management",Birmingham,Data Solutions,Mid-Level,Database,Full-Time
+UI Developer,Design web interfaces,"HTML, CSS, JavaScript",Edinburgh,Web Creations,Junior,Web Development,Full-Time
+System Administrator,Maintain systems,"Windows Server, Networking",Glasgow,System Services,Mid-Level,IT Services,Full-Time
+AI/ML Engineer,Develop AI models,"Python, TensorFlow, AI/ML",Leeds,AI Innovations,Mid-Level,Artificial Intelligence,Full-Time
+IT Auditor,Audit IT systems,"Audit, Risk Management",Bristol,Audit Experts,Mid-Level,Audit,Full-Time
+Network Security Engineer,Secure networks,"Security, Firewall",Newcastle,SecureNet,Mid-Level,Security,Full-Time
+Software Tester,Test software,"Manual Testing, Bug Tracking",Cardiff,QA Solutions,Entry-Level,Quality Assurance,Full-Time
+Cloud Solutions Architect,Design cloud solutions,"AWS, Azure, Cloud Architecture",London,Cloud Architects,Senior,Cloud Computing,Full-Time
+IT Consultant,Provide IT consultancy,"Consulting, IT Strategy",Manchester,IT Consultants,Senior,Consulting,Full-Time
+Front-end Developer,Develop web interfaces,"JavaScript, React",Birmingham,Web Studios,Mid-Level,Web Development,Full-Time
+Business Analyst,Analyze business needs,"Business Analysis, Requirements",Edinburgh,Biz Analysts,Mid-Level,Business Analysis,Full-Time
+IT Helpdesk Support,Provide IT support,"Troubleshooting, Customer Service",Glasgow,IT Helpdesk,Entry-Level,Support,Full-Time
+DevSecOps Engineer,Secure DevOps pipeline,"DevSecOps, CI/CD",Leeds,Secure DevOps,Mid-Level,DevOps,Full-Time
+Data Engineer,Build data pipelines,"ETL, Big Data, SQL",Bristol,Data Engineers,Mid-Level,Data Engineering,Full-Time
+IT Trainer,Train IT professionals,"Training, IT Education",Newcastle,IT Training,Junior,Education,Full-Time
+Cloud Security Engineer,Secure cloud,"Cloud Security, Encryption",Cardiff,SecureCloud,Mid-Level,Security,Full-Time
+IT Procurement Specialist,Procure IT resources,"Procurement, Vendor Management",Edinburgh,ProcureIT,Mid-Level,Procurement,Full-Time
+UX Researcher,Conduct UX research,"User Research, UX Design",Glasgow,UX Labs,Mid-Level,Design,Full-Time
+Blockchain Developer,Develop blockchain,"Blockchain, Solidity",Leeds,Blockchain Tech,Mid-Level,Blockchain,Full-Time
+IT Risk Analyst,Analyze IT risks,"Risk Assessment, Compliance",Cardiff,Risk Analysts,Mid-Level,Risk Management,Full-Time
+Cloud Support Engineer,Support cloud,"AWS, Azure, Cloud Services",London,Cloud Support,Junior,Support,Full-Time
+IT Sales Manager,Manage IT sales team,"Sales, IT Sales",Manchester,Sales Leaders,Senior,Sales,Full-Time
+Data Privacy Officer,Ensure data privacy,"GDPR, Data Protection",Birmingham,Data Privacy,Mid-Level,Data Privacy,Full-Time
+Software Architect,Design software,"Architecture, Design Patterns",Edinburgh,Software Architects,Senior,Software Design,Full-Time
+IT Quality Analyst,Ensure software quality,"QA, Testing",Glasgow,QA Analysts,Mid-Level,Quality Assurance,Full-Time
+Mobile App Developer,Develop mobile apps,"iOS, Android, Mobile Development",Leeds,Mobile Devs,Mid-Level,Mobile Development,Full-Time
+IT Procurement Manager,Manage procurement,"Procurement, Supply Chain",Cardiff,Procurement Mgmt,Senior,Procurement,Full-Time
+IT Compliance Officer,Ensure IT compliance,"Compliance, Regulations",London,Compliance Experts,Mid-Level,Compliance,Full-Time
+Full-stack Developer,Develop full-stack apps,"JavaScript, Node.js",Manchester,Full-stack Devs,Mid-Level,Web Development,Full-Time
+IT Business Analyst,Analyze IT needs,"Business Analysis, IT Strategy",Birmingham,IT Analysts,Mid-Level,Business Analysis,Full-Time
+IT Trainer Assistant,Assist IT training,"Training, IT Education",Edinburgh,IT Training Assist,Entry-Level,Education,Full-Time
+AI Ethics Consultant,Ensure AI ethics,"Ethics, AI Governance",Glasgow,AI Ethics,Mid-Level,Ethics,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Leeds,IT Support Specialists,Junior,Support,Full-Time
+Data Analytics Manager,Manage data analytics,"Data Analytics, Team Management",Cardiff,Data Managers,Senior,Analytics,Full-Time
+IT Project Coordinator,Coordinate IT projects,Project Coordination,London,Project Coordinators,Mid-Level,Project Management,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Manchester,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance",Birmingham,IT Governance Mgmt,Senior,Governance,Full-Time
+Cybersecurity Engineer,Secure IT systems,"Cybersecurity, Penetration Testing",Edinburgh,Cybersecurity Engineers,Mid-Level,Security,Full-Time
+IT Procurement Analyst,Analyze IT procurement,Procurement Analysis,Glasgow,Procurement Analysts,Mid-Level,Procurement,Full-Time
+UX Designer,Design user experiences,"UX Design, Prototyping",Leeds,UX Designers,Mid-Level,Design,Full-Time
+Software Developer,Develop web applications,"Java, JavaScript, HTML/CSS",London,Tech Innovations,Mid-Level,Software Development,Full-Time
+Data Analyst,Analyze data trends,"SQL, Excel, Data Analysis",Manchester,Data Insights,Junior,Data Analysis,Full-Time
+Network Engineer,Manage network infrastructure,"Cisco, Networking",Birmingham,Network Experts,Mid-Level,Networking,Full-Time
+Cloud Architect,Design cloud solutions,"AWS, Azure, Cloud Design",Edinburgh,Cloud Innovators,Senior,Cloud Computing,Full-Time
+Cybersecurity Analyst,Ensure IT security,"Cybersecurity, Threat Detection",Glasgow,SecureGuard,Mid-Level,Security,Full-Time
+IT Project Manager,Manage IT projects,"Project Management, Agile",Leeds,Project Leaders,Senior,Project Management,Full-Time
+Data Scientist,Analyze big data,"Python, Machine Learning",Sheffield,Data Insights,Mid-Level,Data Science,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Cardiff,IT Support Experts,Junior,Support,Full-Time
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS",London,Web Creations,Mid-Level,Web Development,Full-Time
+Data Analyst,Analyze data trends,"SQL, Excel, Data Analysis",Manchester,Data Insights,Junior,Data Analysis,Full-Time
+Network Engineer,Manage network infrastructure,"Cisco, Networking",Birmingham,Network Experts,Mid-Level,Networking,Full-Time
+Cloud Architect,Design cloud solutions,"AWS, Azure, Cloud Design",Edinburgh,Cloud Innovations,Senior,Cloud Computing,Full-Time
+Cybersecurity Analyst,Ensure IT security,"Cybersecurity, Threat Detection",Glasgow,SecureGuard,Mid-Level,Security,Full-Time
+IT Project Manager,Manage IT projects,"Project Management, Agile",Leeds,Project Leaders,Senior,Project Management,Full-Time
+Data Scientist,Analyze big data,"Python, Machine Learning",Sheffield,Data Insights,Mid-Level,Data Science,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Manchester,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance",Birmingham,IT Governance Mgmt,Senior,Governance,Full-Time
+Software Developer,Develop software,"Java, Python, Software Development",Bristol,Tech Solutions,Mid-Level,Software Development,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Cardiff,IT Support Experts,Junior,Support,Full-Time
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS",London,Web Creations,Mid-Level,Web Development,Full-Time
+Data Analyst,Analyze data trends,"SQL, Excel, Data Analysis",Manchester,Data Insights,Junior,Data Analysis,Full-Time
+Network Engineer,Manage network infrastructure,"Cisco, Networking",Birmingham,Network Experts,Mid-Level,Networking,Full-Time
+Cloud Architect,Design cloud solutions,"AWS, Azure, Cloud Design",Edinburgh,Cloud Innovations,Senior,Cloud Computing,Full-Time
+Cybersecurity Analyst,Ensure IT security,"Cybersecurity, Threat Detection",Glasgow,SecureGuard,Mid-Level,Security,Full-Time
+IT Project Manager,Manage IT projects,"Project Management, Agile",Leeds,Project Leaders,Senior,Project Management,Full-Time
+Data Scientist,Analyze big data,"Python, Machine Learning",Sheffield,Data Insights,Mid-Level,Data Science,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Manchester,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance",Birmingham,IT Governance Mgmt,Senior,Governance,Full-Time
+Software Developer,Develop software,"Java, Python, Software Development",Bristol,Tech Solutions,Mid-Level,Software Development,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Glasgow,IT Solutions,Junior,Support,Full-Time
+DevOps Engineer,Streamline devops,"Docker, Jenkins, DevOps",London,DevOps Solutions,Mid-Level,DevOps,Full-Time
+Database Administrator,Manage databases,"SQL, Database Management",Manchester,Data Management,Mid-Level,Database,Full-Time
+UX Designer,Design user experiences,"UX Design, Prototyping",Birmingham,UX Innovations,Junior,Design,Full-Time
+IT Consultant,Provide IT consultancy,"Consulting, IT Strategy",Edinburgh,IT Consultancy,Senior,Consulting,Full-Time
+Software Tester,Test software,"Manual Testing, Bug Tracking",Glasgow,QA Solutions,Junior,Quality Assurance,Full-Time
+IT Security Analyst,Ensure IT security,"Security, Threat Analysis",Leeds,SecureIT,Mid-Level,Security,Full-Time
+Data Engineer,Build data pipelines,"ETL, Big Data, SQL",Bristol,Data Engineers,Mid-Level,Data Engineering,Full-Time
+Front-end Developer,Develop web interfaces,"HTML, CSS, JavaScript",Sheffield,Web Studios,Mid-Level,Web Development,Full-Time
+AI/ML Engineer,Develop AI models,"Python, TensorFlow, AI/ML",Newcastle,AI Innovations,Mid-Level,Artificial Intelligence,Full-Time
+IT Auditor,Audit IT systems,"Audit, Risk Management",Cardiff,Audit Experts,Mid-Level,Audit,Full-Time
+IT Trainer,Train IT professionals,"Training, IT Education",Liverpool,IT Training,Junior,Education,Full-Time
+Cloud Security Engineer,Secure cloud,"Cloud Security, Encryption",Nottingham,SecureCloud,Mid-Level,Security,Full-Time
+IT Procurement Specialist,Procure IT resources,"Procurement, Vendor Management",Sheffield,ProcureIT,Mid-Level,Procurement,Full-Time
+UX Researcher,Conduct UX research,"User Research, UX Design",Bristol,UX Labs,Junior,Design,Full-Time
+Blockchain Developer,Develop blockchain,"Blockchain, Solidity",Liverpool,Blockchain Tech,Mid-Level,Blockchain,Full-Time
+IT Risk Analyst,Analyze IT risks,"Risk Assessment, Compliance",Nottingham,Risk Analysts,Mid-Level,Risk Management,Full-Time
+Cloud Support Engineer,Support cloud,"AWS, Azure, Cloud Services",Sheffield,Cloud Support,Junior,Support,Full-Time
+IT Sales Manager,Manage IT sales team,"Sales, IT Sales",Manchester,Sales Leaders,Senior,Sales,Full-Time
+Data Privacy Officer,Ensure data privacy,"GDPR, Data Protection",Birmingham,Data Privacy,Mid-Level,Data Privacy,Full-Time
+Software Architect,Design software,"Architecture, Design Patterns",Nottingham,Software Architects,Senior,Software Design,Full-Time
+IT Quality Analyst,Ensure software quality,"QA, Testing",Sheffield,QA Analysts,Mid-Level,Quality Assurance,Full-Time
+Mobile App Developer,Develop mobile apps,"iOS, Android, Mobile Development",Liverpool,Mobile Devs,Mid-Level,Mobile Development,Full-Time
+IT Procurement Manager,Manage procurement,"Procurement, Supply Chain",Nottingham,Procurement Mgmt,Senior,Procurement,Full-Time
+IT Compliance Officer,Ensure IT compliance,"Compliance, Regulations",Manchester,Compliance Experts,Mid-Level,Compliance,Full-Time
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS",Birmingham,Web Creations,Mid-Level,Web Development,Full-Time
+IT Business Analyst,Analyze IT needs,"Business Analysis, IT Strategy",Edinburgh,IT Analysts,Mid-Level,Business Analysis,Full-Time
+IT Trainer,Train IT professionals,"Training, IT Education",Glasgow,IT Training,Junior,Education,Full-Time
+AI Ethics Consultant,Ensure AI ethics,"Ethics, AI Governance",Leeds,AI Ethics,Senior,Ethics,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Sheffield,IT Support Specialists,Mid-Level,Support,Full-Time
+Data Analytics Manager,Manage data analytics,"Data Analytics, Team Management",Nottingham,Data Managers,Senior,Analytics,Full-Time
+IT Project Coordinator,Coordinate IT projects,Project Coordination,Liverpool,Project Coordinators,Mid-Level,Project Management,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Birmingham,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Cardiff,IT Support Experts,Junior,Support,Full-Time
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS",London,Web Creations,Mid-Level,Web Development,Full-Time
+Data Analyst,Analyze data trends,"SQL, Excel, Data Analysis",Manchester,Data Insights,Junior,Data Analysis,Full-Time
+Network Engineer,Manage network infrastructure,"Cisco, Networking",Birmingham,Network Experts,Mid-Level,Networking,Full-Time
+Cloud Architect,Design cloud solutions,"AWS, Azure, Cloud Design",Edinburgh,Cloud Innovations,Senior,Cloud Computing,Full-Time
+Cybersecurity Analyst,Ensure IT security,"Cybersecurity, Threat Detection",Glasgow,SecureGuard,Mid-Level,Security,Full-Time
+IT Project Manager,Manage IT projects,"Project Management, Agile",Leeds,Project Leaders,Senior,Project Management,Full-Time
+Data Scientist,Analyze big data,"Python, Machine Learning",Sheffield,Data Insights,Mid-Level,Data Science,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Manchester,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance",Birmingham,IT Governance Mgmt,Senior,Governance,Full-Time
+Software Developer,Develop software,"Java, Python, Software Development",Bristol,Tech Solutions,Mid-Level,Software Development,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Glasgow,IT Solutions,Junior,Support,Full-Time
+DevOps Engineer,Streamline devops,"Docker, Jenkins, DevOps",London,DevOps Solutions,Mid-Level,DevOps,Full-Time
+Database Administrator,Manage databases,"SQL, Database Management",Manchester,Data Management,Mid-Level,Database,Full-Time
+UX Designer,Design user experiences,"UX Design, Prototyping",Birmingham,UX Innovations,Junior,Design,Full-Time
+IT Consultant,Provide IT consultancy,"Consulting, IT Strategy",Edinburgh,IT Consultancy,Senior,Consulting,Full-Time
+Software Tester,Test software,"Manual Testing, Bug Tracking",Glasgow,QA Solutions,Junior,Quality Assurance,Full-Time
+IT Security Analyst,Ensure IT security,"Security, Threat Analysis",Leeds,SecureIT,Mid-Level,Security,Full-Time
+Data Engineer,Build data pipelines,"ETL, Big Data, SQL",Bristol,Data Engineers,Mid-Level,Data Engineering,Full-Time
+Front-end Developer,Develop web interfaces,"HTML, CSS, JavaScript",Sheffield,Web Studios,Mid-Level,Web Development,Full-Time
+AI/ML Engineer,Develop AI models,"Python, TensorFlow, AI/ML",Newcastle,AI Innovations,Mid-Level,Artificial Intelligence,Full-Time
+IT Auditor,Audit IT systems,"Audit, Risk Management",Cardiff,Audit Experts,Mid-Level,Audit,Full-Time
+IT Trainer,Train IT professionals,"Training, IT Education",Liverpool,IT Training,Junior,Education,Full-Time
+Cloud Security Engineer,Secure cloud,"Cloud Security, Encryption",Nottingham,SecureCloud,Mid-Level,Security,Full-Time
+IT Procurement Specialist,Procure IT resources,"Procurement, Vendor Management",Sheffield,ProcureIT,Mid-Level,Procurement,Full-Time
+UX Researcher,Conduct UX research,"User Research, UX Design",Bristol,UX Labs,Junior,Design,Full-Time
+Blockchain Developer,Develop blockchain,"Blockchain, Solidity",Liverpool,Blockchain Tech,Mid-Level,Blockchain,Full-Time
+IT Risk Analyst,Analyze IT risks,"Risk Assessment, Compliance",Nottingham,Risk Analysts,Mid-Level,Risk Management,Full-Time
+Cloud Support Engineer,Support cloud,"AWS, Azure, Cloud Services",Sheffield,Cloud Support,Junior,Support,Full-Time
+IT Sales Manager,Manage IT sales team,"Sales, IT Sales",Manchester,Sales Leaders,Senior,Sales,Full-Time
+Data Privacy Officer,Ensure data privacy,"GDPR, Data Protection",Birmingham,Data Privacy,Mid-Level,Data Privacy,Full-Time
+Software Architect,Design software,"Architecture, Design Patterns",Nottingham,Software Architects,Senior,Software Design,Full-Time
+IT Quality Analyst,Ensure software quality,"QA, Testing",Sheffield,QA Analysts,Mid-Level,Quality Assurance,Full-Time
+Mobile App Developer,Develop mobile apps,"iOS, Android, Mobile Development",Liverpool,Mobile Devs,Mid-Level,Mobile Development,Full-Time
+IT Procurement Manager,Manage procurement,"Procurement, Supply Chain",Nottingham,Procurement Mgmt,Senior,Procurement,Full-Time
+IT Compliance Officer,Ensure IT compliance,"Compliance, Regulations",Manchester,Compliance Experts,Mid-Level,Compliance,Full-Time
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS",Birmingham,Web Creations,Mid-Level,Web Development,Full-Time
+IT Business Analyst,Analyze IT needs,"Business Analysis, IT Strategy",Edinburgh,IT Analysts,Mid-Level,Business Analysis,Full-Time
+IT Trainer,Train IT professionals,"Training, IT Education",Glasgow,IT Training,Junior,Education,Full-Time
+AI Ethics Consultant,Ensure AI ethics,"Ethics, AI Governance",Leeds,AI Ethics,Senior,Ethics,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Sheffield,IT Support Specialists,Mid-Level,Support,Full-Time
+Data Analytics Manager,Manage data analytics,"Data Analytics, Team Management",Nottingham,Data Managers,Senior,Analytics,Full-Time
+IT Project Coordinator,Coordinate IT projects,Project Coordination,Liverpool,Project Coordinators,Mid-Level,Project Management,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Birmingham,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Cardiff,IT Support Experts,Junior,Support,Full-Time
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS",London,Web Creations,Mid-Level,Web Development,Full-Time
+Data Analyst,Analyze data trends,"SQL, Excel, Data Analysis",Manchester,Data Insights,Junior,Data Analysis,Full-Time
+Network Engineer,Manage network infrastructure,"Cisco, Networking",Birmingham,Network Experts,Mid-Level,Networking,Full-Time
+Cloud Architect,Design cloud solutions,"AWS, Azure, Cloud Design",Edinburgh,Cloud Innovations,Senior,Cloud Computing,Full-Time
+Cybersecurity Analyst,Ensure IT security,"Cybersecurity, Threat Detection",Glasgow,SecureGuard,Mid-Level,Security,Full-Time
+IT Project Manager,Manage IT projects,"Project Management, Agile",Leeds,Project Leaders,Senior,Project Management,Full-Time
+Data Scientist,Analyze big data,"Python, Machine Learning",Sheffield,Data Insights,Mid-Level,Data Science,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Manchester,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance",Birmingham,IT Governance Mgmt,Senior,Governance,Full-Time
+Software Developer,Develop software,"Java, Python, Software Development",Bristol,Tech Solutions,Mid-Level,Software Development,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Glasgow,IT Solutions,Junior,Support,Full-Time
+DevOps Engineer,Streamline devops,"Docker, Jenkins, DevOps",London,DevOps Solutions,Mid-Level,DevOps,Full-Time
+Database Administrator,Manage databases,"SQL, Database Management",Manchester,Data Management,Mid-Level,Database,Full-Time
+UX Designer,Design user experiences,"UX Design, Prototyping",Birmingham,UX Innovations,Junior,Design,Full-Time
+IT Consultant,Provide IT consultancy,"Consulting, IT Strategy",Edinburgh,IT Consultancy,Senior,Consulting,Full-Time
+Software Tester,Test software,"Manual Testing, Bug Tracking",Glasgow,QA Solutions,Junior,Quality Assurance,Full-Time
+IT Security Analyst,Ensure IT security,"Security, Threat Analysis",Leeds,SecureIT,Mid-Level,Security,Full-Time
+Data Engineer,Build data pipelines,"ETL, Big Data, SQL",Bristol,Data Engineers,Mid-Level,Data Engineering,Full-Time
+Front-end Developer,Develop web interfaces,"HTML, CSS, JavaScript",Sheffield,Web Studios,Mid-Level,Web Development,Full-Time
+AI/ML Engineer,Develop AI models,"Python, TensorFlow, AI/ML",Newcastle,AI Innovations,Mid-Level,Artificial Intelligence,Full-Time
+IT Auditor,Audit IT systems,"Audit, Risk Management",Cardiff,Audit Experts,Mid-Level,Audit,Full-Time
+IT Trainer,Train IT professionals,"Training, IT Education",Liverpool,IT Training,Junior,Education,Full-Time
+Cloud Security Engineer,Secure cloud,"Cloud Security, Encryption",Nottingham,SecureCloud,Mid-Level,Security,Full-Time
+IT Procurement Specialist,Procure IT resources,"Procurement, Vendor Management",Sheffield,ProcureIT,Mid-Level,Procurement,Full-Time
+UX Researcher,Conduct UX research,"User Research, UX Design",Bristol,UX Labs,Junior,Design,Full-Time
+Blockchain Developer,Develop blockchain,"Blockchain, Solidity",Liverpool,Blockchain Tech,Mid-Level,Blockchain,Full-Time
+IT Risk Analyst,Analyze IT risks,"Risk Assessment, Compliance",Nottingham,Risk Analysts,Mid-Level,Risk Management,Full-Time
+Cloud Support Engineer,Support cloud,"AWS, Azure, Cloud Services",Sheffield,Cloud Support,Junior,Support,Full-Time
+IT Sales Manager,Manage IT sales team,"Sales, IT Sales",Manchester,Sales Leaders,Senior,Sales,Full-Time
+Data Privacy Officer,Ensure data privacy,"GDPR, Data Protection",Birmingham,Data Privacy,Mid-Level,Data Privacy,Full-Time
+Software Architect,Design software,"Architecture, Design Patterns",Nottingham,Software Architects,Senior,Software Design,Full-Time
+IT Quality Analyst,Ensure software quality,"QA, Testing",Sheffield,QA Analysts,Mid-Level,Quality Assurance,Full-Time
+Mobile App Developer,Develop mobile apps,"iOS, Android, Mobile Development",Liverpool,Mobile Devs,Mid-Level,Mobile Development,Full-Time
+IT Procurement Manager,Manage procurement,"Procurement, Supply Chain",Nottingham,Procurement Mgmt,Senior,Procurement,Full-Time
+IT Compliance Officer,Ensure IT compliance,"Compliance, Regulations",Manchester,Compliance Experts,Mid-Level,Compliance,Full-Time
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS",Birmingham,Web Creations,Mid-Level,Web Development,Full-Time
+IT Business Analyst,Analyze IT needs,"Business Analysis, IT Strategy",Edinburgh,IT Analysts,Mid-Level,Business Analysis,Full-Time
+IT Trainer,Train IT professionals,"Training, IT Education",Glasgow,IT Training,Junior,Education,Full-Time
+AI Ethics Consultant,Ensure AI ethics,"Ethics, AI Governance",Leeds,AI Ethics,Senior,Ethics,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Sheffield,IT Support Specialists,Mid-Level,Support,Full-Time
+Data Analytics Manager,Manage data analytics,"Data Analytics, Team Management",Nottingham,Data Managers,Senior,Analytics,Full-Time
+IT Project Coordinator,Coordinate IT projects,Project Coordination,Liverpool,Project Coordinators,Mid-Level,Project Management,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Birmingham,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Cardiff,IT Support Experts,Junior,Support,Full-Time
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS",London,Web Creations,Mid-Level,Web Development,Full-Time
+Data Analyst,Analyze data trends,"SQL, Excel, Data Analysis",Manchester,Data Insights,Junior,Data Analysis,Full-Time
+Network Engineer,Manage network infrastructure,"Cisco, Networking",Birmingham,Network Experts,Mid-Level,Networking,Full-Time
+Cloud Architect,Design cloud solutions,"AWS, Azure, Cloud Design",Edinburgh,Cloud Innovations,Senior,Cloud Computing,Full-Time
+Cybersecurity Analyst,Ensure IT security,"Cybersecurity, Threat Detection",Glasgow,SecureGuard,Mid-Level,Security,Full-Time
+IT Project Manager,Manage IT projects,"Project Management, Agile",Leeds,Project Leaders,Senior,Project Management,Full-Time
+Data Scientist,Analyze big data,"Python, Machine Learning",Sheffield,Data Insights,Mid-Level,Data Science,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Manchester,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance",Birmingham,IT Governance Mgmt,Senior,Governance,Full-Time
+Software Developer,Develop software,"Java, Python, Software Development",Bristol,Tech Solutions,Mid-Level,Software Development,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Glasgow,IT Solutions,Junior,Support,Full-Time
+DevOps Engineer,Streamline devops,"Docker, Jenkins, DevOps",London,DevOps Solutions,Mid-Level,DevOps,Full-Time
+Database Administrator,Manage databases,"SQL, Database Management",Manchester,Data Management,Mid-Level,Database,Full-Time
+UX Designer,Design user experiences,"UX Design, Prototyping",Birmingham,UX Innovations,Junior,Design,Full-Time
+IT Consultant,Provide IT consultancy,"Consulting, IT Strategy",Edinburgh,IT Consultancy,Senior,Consulting,Full-Time
+Software Tester,Test software,"Manual Testing, Bug Tracking",Glasgow,QA Solutions,Junior,Quality Assurance,Full-Time
+IT Security Analyst,Ensure IT security,"Security, Threat Analysis",Leeds,SecureIT,Mid-Level,Security,Full-Time
+Data Engineer,Build data pipelines,"ETL, Big Data, SQL",Bristol,Data Engineers,Mid-Level,Data Engineering,Full-Time
+Front-end Developer,Develop web interfaces,"HTML, CSS, JavaScript",Sheffield,Web Studios,Mid-Level,Web Development,Full-Time
+AI/ML Engineer,Develop AI models,"Python, TensorFlow, AI/ML",Newcastle,AI Innovations,Mid-Level,Artificial Intelligence,Full-Time
+IT Auditor,Audit IT systems,"Audit, Risk Management",Cardiff,Audit Experts,Mid-Level,Audit,Full-Time
+IT Trainer,Train IT professionals,"Training, IT Education",Liverpool,IT Training,Junior,Education,Full-Time
+Cloud Security Engineer,Secure cloud,"Cloud Security, Encryption",Nottingham,SecureCloud,Mid-Level,Security,Full-Time
+IT Procurement Specialist,Procure IT resources,"Procurement, Vendor Management",Sheffield,ProcureIT,Mid-Level,Procurement,Full-Time
+UX Researcher,Conduct UX research,"User Research, UX Design",Bristol,UX Labs,Junior,Design,Full-Time
+Blockchain Developer,Develop blockchain,"Blockchain, Solidity",Liverpool,Blockchain Tech,Mid-Level,Blockchain,Full-Time
+IT Risk Analyst,Analyze IT risks,"Risk Assessment, Compliance",Nottingham,Risk Analysts,Mid-Level,Risk Management,Full-Time
+Cloud Support Engineer,Support cloud,"AWS, Azure, Cloud Services",Sheffield,Cloud Support,Junior,Support,Full-Time
+IT Sales Manager,Manage IT sales team,"Sales, IT Sales",Manchester,Sales Leaders,Senior,Sales,Full-Time
+Data Privacy Officer,Ensure data privacy,"GDPR, Data Protection",Birmingham,Data Privacy,Mid-Level,Data Privacy,Full-Time
+Software Architect,Design software,"Architecture, Design Patterns",Nottingham,Software Architects,Senior,Software Design,Full-Time
+IT Quality Analyst,Ensure software quality,"QA, Testing",Sheffield,QA Analysts,Mid-Level,Quality Assurance,Full-Time
+Mobile App Developer,Develop mobile apps,"iOS, Android, Mobile Development",Liverpool,Mobile Devs,Mid-Level,Mobile Development,Full-Time
+IT Procurement Manager,Manage procurement,"Procurement, Supply Chain",Nottingham,Procurement Mgmt,Senior,Procurement,Full-Time
+IT Compliance Officer,Ensure IT compliance,"Compliance, Regulations",Manchester,Compliance Experts,Mid-Level,Compliance,Full-Time
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS",Birmingham,Web Creations,Mid-Level,Web Development,Full-Time
+IT Business Analyst,Analyze IT needs,"Business Analysis, IT Strategy",Edinburgh,IT Analysts,Mid-Level,Business Analysis,Full-Time
+IT Trainer,Train IT professionals,"Training, IT Education",Glasgow,IT Training,Junior,Education,Full-Time
+AI Ethics Consultant,Ensure AI ethics,"Ethics, AI Governance",Leeds,AI Ethics,Senior,Ethics,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Sheffield,IT Support Specialists,Mid-Level,Support,Full-Time
+Data Analytics Manager,Manage data analytics,"Data Analytics, Team Management",Nottingham,Data Managers,Senior,Analytics,Full-Time
+IT Project Coordinator,Coordinate IT projects,Project Coordination,Liverpool,Project Coordinators,Mid-Level,Project Management,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Birmingham,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time
+Software Engineer,Develop software,"Java, Python",London,ABC Tech,Entry-Level,Technology,Full-Time
+Data Analyst,Analyze data,"SQL, Excel",Manchester,XYZ Analytics,Junior,Analytics,Full-Time
+Network Engineer,Maintain networks,"Cisco, WAN",Birmingham,Network Solutions,Mid-Level,Networking,Full-Time
+Cloud Architect,Design cloud,"AWS, Azure",Edinburgh,Cloud Innovators,Senior,Cloud Computing,Full-Time
+Cybersecurity Analyst,Protect data,Cybersecurity,Glasgow,SecureGuard,Mid-Level,Security,Full-Time
+IT Project Manager,Manage projects,"PMP, Agile",Leeds,Project Leaders,Senior,Project Management,Full-Time
+Data Scientist,Analyze big data,"R, Python",Bristol,Data Insights,Mid-Level,Data Science,Full-Time
+DevOps Engineer,Streamline devops,"Docker, Jenkins",Newcastle,DevOps Solutions,Mid-Level,DevOps,Full-Time
+IT Support Analyst,Provide IT support,"Windows, Linux",Sheffield,IT Services,Entry-Level,Support,Full-Time
+UX/UI Designer,Design user interfaces,UI/UX Design,Cardiff,Design Studios,Junior,Design,Full-Time
+Database Analyst,Manage databases,"SQL, Oracle, Database Management",London,Data Solutions,Mid-Level,Database,Full-Time
+UI Developer,Design user interfaces,"HTML, CSS, JavaScript",Manchester,Web Creations,Junior,Web Development,Full-Time
+System Administrator,Maintain systems,"Windows Server, Active Directory",Birmingham,System Services,Mid-Level,IT Services,Full-Time
+AI/ML Engineer,Develop AI models,"Python, TensorFlow, AI/ML",Edinburgh,AI Innovations,Mid-Level,Artificial Intelligence,Full-Time
+IT Auditor,Audit IT systems,"Audit, Risk Management",Glasgow,Audit Experts,Mid-Level,Audit,Full-Time
+Network Security Engineer,Secure networks,"Firewall, VPN, Security",Leeds,SecureNet,Mid-Level,Security,Full-Time
+Software Tester,Test software,"Manual Testing, Bug Tracking",Bristol,QA Solutions,Entry-Level,Quality Assurance,Full-Time
+Cloud Solutions Architect,Design cloud solutions,"AWS, Azure, Architecture",Newcastle,Cloud Architects,Senior,Cloud Computing,Full-Time
+IT Consultant,Provide IT consultancy,"Consulting, IT Strategy",Sheffield,IT Consultants,Senior,Consulting,Full-Time
+Front-end Developer,Develop web interfaces,"JavaScript, React",Cardiff,Web Studios,Mid-Level,Web Development,Full-Time
+Business Analyst,Analyze business needs,"Business Analysis, Requirements",London,Biz Analysts,Mid-Level,Business Analysis,Full-Time
+IT Helpdesk Support,Provide IT support,"Troubleshooting, Customer Service",Manchester,IT Helpdesk,Entry-Level,Support,Full-Time
+DevSecOps Engineer,Secure DevOps pipeline,"DevSecOps, CI/CD",Birmingham,Secure DevOps,Mid-Level,DevOps,Full-Time
+Data Engineer,Build data pipelines,"ETL, Big Data, SQL",Edinburgh,Data Engineers,Mid-Level,Data Engineering,Full-Time
+IT Trainer,Train IT professionals,"Training, IT Education",Glasgow,IT Training,Junior,Education,Full-Time
+Cloud Security Engineer,Secure cloud,"Cloud Security, Encryption",Leeds,SecureCloud,Mid-Level,Security,Full-Time
+IT Procurement Specialist,Procure IT resources,"Procurement, Vendor Management",Bristol,ProcureIT,Mid-Level,Procurement,Full-Time
+UX Researcher,Conduct UX research,"User Research, UX Design",Newcastle,UX Labs,Mid-Level,Design,Full-Time
+Blockchain Developer,Develop blockchain,"Blockchain, Solidity",Sheffield,Blockchain Tech,Mid-Level,Blockchain,Full-Time
+IT Risk Analyst,Analyze IT risks,"Risk Assessment, Compliance",Cardiff,Risk Analysts,Mid-Level,Risk Management,Full-Time
+Cloud Support Engineer,Support cloud,"AWS, Azure, Cloud Services",London,Cloud Support,Junior,Support,Full-Time
+IT Sales Manager,Manage IT sales team,"Sales, IT Sales",Manchester,Sales Leaders,Senior,Sales,Full-Time
+Data Privacy Officer,Ensure data privacy,"GDPR, Data Protection",Birmingham,Data Privacy,Mid-Level,Data Privacy,Full-Time
+Software Architect,Design software,"Architecture, Design Patterns",Edinburgh,Software Architects,Senior,Software Design,Full-Time
+IT Quality Analyst,Ensure software quality,"QA, Testing",Glasgow,QA Analysts,Mid-Level,Quality Assurance,Full-Time
+Mobile App Developer,Develop mobile apps,"iOS, Android, Mobile Development",Leeds,Mobile Devs,Mid-Level,Mobile Development,Full-Time
+IT Procurement Manager,Manage procurement,"Procurement, Supply Chain",Bristol,Procurement Mgmt,Senior,Procurement,Full-Time
+IT Compliance Officer,Ensure IT compliance,"Compliance, Regulations",Newcastle,Compliance Experts,Mid-Level,Compliance,Full-Time
+Full-stack Developer,Develop full-stack apps,"JavaScript, Node.js",Sheffield,Full-stack Devs,Mid-Level,Web Development,Full-Time
+IT Business Analyst,Analyze IT needs,"Business Analysis, IT Strategy",Cardiff,IT Analysts,Mid-Level,Business Analysis,Full-Time
+IT Trainer Assistant,Assist IT training,"Training, IT Education",London,IT Training Assist,Entry-Level,Education,Full-Time
+AI Ethics Consultant,Ensure AI ethics,"Ethics, AI Governance",Manchester,AI Ethics,Mid-Level,Ethics,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Birmingham,IT Support Specialists,Junior,Support,Full-Time
+Data Analytics Manager,Manage data analytics,"Data Analytics, Team Management",Edinburgh,Data Managers,Senior,Analytics,Full-Time
+IT Project Coordinator,Coordinate IT projects,Project Coordination,Glasgow,Project Coordinators,Mid-Level,Project Management,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Leeds,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance",Bristol,IT Governance Mgmt,Senior,Governance,Full-Time
+Cybersecurity Engineer,Secure IT systems,"Cybersecurity, Penetration Testing",Newcastle,Cybersecurity Engineers,Mid-Level,Security,Full-Time
+IT Procurement Analyst,Analyze IT procurement,Procurement Analysis,Cardiff,Procurement Analysts,Mid-Level,Procurement,Full-Time
+UX Designer,Design user experiences,"UX Design, Prototyping",London,UX Designers,Mid-Level,Design,Full-Time
+IT Change Manager,Manage IT changes,"Change Management, IT Strategy",Manchester,Change Managers,Senior,Change Management,Full-Time
+IT Service Desk Analyst,Provide service desk support,"IT Service Desk, Troubleshooting",Birmingham,Service Desk,Entry-Level,Support,Full-Time
+Cloud Security Analyst,Analyze cloud security,"Cloud Security, Threat Analysis",Edinburgh,Cloud Security,Mid-Level,Security,Full-Time
+IT Business Continuity Manager,Ensure business continuity,"Business Continuity, Disaster Recovery",Glasgow,Continuity Managers,Senior,Business Continuity,Full-Time
+QA Automation Engineer,Automate software testing,"Test Automation, Selenium",Leeds,QA Automation,Mid-Level,Quality Assurance,Full-Time
+Data Governance Analyst,Manage data governance,"Data Governance, Data Quality",Bristol,Data Governance,Mid-Level,Governance,Full-Time
+IT Trainer Specialist,Specialize in IT training,"Training, Specialization",Newcastle,IT Training Specialists,Mid-Level,Education,Full-Time
+Machine Learning Engineer,Develop ML models,"Machine Learning, Python",Cardiff,ML Engineers,Mid-Level,Machine Learning,Full-Time
+IT Asset Manager,Manage IT assets,"IT Asset Management, Inventory",London,Asset Managers,Mid-Level,Asset Management,Full-Time
+IT Security Consultant,Provide security consultancy,Security Consulting,Manchester,Security Consultants,Mid-Level,Security,Full-Time
+Data Analyst Intern,Analyze data as an intern,"SQL, Excel",Birmingham,Data Interns,Internship,Analytics,Full-Time
+IT Sales Representative,Sell IT solutions,"Sales, IT Sales",Edinburgh,Sales Reps,Junior,Sales,Full-Time
+Cloud Migration Specialist,Migrate to the cloud,"Cloud Migration, AWS, Azure",Glasgow,Cloud Migrators,Mid-Level,Cloud Computing,Full-Time
+IT Procurement Coordinator,Coordinate IT procurement,Procurement Coordination,Leeds,Procurement Coordinators,Mid-Level,Procurement,Full-Time
+IT Analyst Trainee,Train as an IT analyst,"IT Analysis, Training",Bristol,IT Analyst Trainees,Entry-Level,Training,Full-Time
+UX Research Assistant,Assist in UX research,"UX Research, Support",Newcastle,UX Research Assistants,Entry-Level,Research,Full-Time
+IT Compliance Specialist,Ensure IT compliance,"Compliance, Regulations",Cardiff,Compliance Specialists,Mid-Level,Compliance,Full-Time
+Software Development Intern,Intern in software dev,"Programming, Internship",London,Dev Interns,Internship,Software Development,Full-Time
+Network Administrator Trainee,Train as network admin,"Networking, Training",Manchester,Network Admin Trainees,Entry-Level,Networking,Full-Time
+Cloud Solutions Intern,Intern in cloud solutions,"Cloud Computing, Internship",Birmingham,Cloud Interns,Internship,Cloud,Full-Time
+Data Engineer,Build data pipelines,"Big Data, Python, SQL",Cardiff,Data Innovators,Mid-Level,Data Engineering,Full-Time
+Software Developer,Develop software,"Java, C++, Software Design",Leeds,CodeCrafters,Mid-Level,Software Development,Full-Time
+IT Analyst,Analyze IT systems,"IT Analysis, Troubleshooting",Birmingham,IT Insights,Junior,IT Analysis,Full-Time
+Cloud Solutions Architect,Design cloud solutions,"AWS, Azure, Cloud Architecture",Manchester,Cloud Architects,Senior,Cloud Computing,Full-Time
+Cybersecurity Analyst,Protect data,"Cybersecurity, Threat Analysis",Edinburgh,SecureGuard,Mid-Level,Security,Full-Time
+IT Project Manager,Manage projects,"PMP, Agile, Project Management",Glasgow,Project Leaders,Senior,Project Management,Full-Time
+Data Scientist,Analyze big data,"R, Python, Machine Learning",Newcastle,Data Insights,Mid-Level,Data Science,Full-Time
+DevOps Engineer,Streamline devops,"Docker, Jenkins, DevOps",Sheffield,DevOps Solutions,Mid-Level,DevOps,Full-Time
+IT Support Analyst,Provide IT support,"Windows, Linux, Troubleshooting",Cardiff,IT Services,Entry-Level,Support,Full-Time
+UX/UI Designer,Design user interfaces,"UI/UX Design, Prototyping",London,Design Studios,Junior,Design,Full-Time
+Database Analyst,Manage databases,"SQL, Oracle, Database Management",Manchester,Data Solutions,Mid-Level,Database,Full-Time
+UI Developer,Design web interfaces,"HTML, CSS, JavaScript",Birmingham,Web Creations,Junior,Web Development,Full-Time
+System Administrator,Maintain systems,"Windows Server, Networking",Edinburgh,System Services,Mid-Level,IT Services,Full-Time
+AI/ML Engineer,Develop AI models,"Python, TensorFlow, AI/ML",Glasgow,AI Innovations,Mid-Level,Artificial Intelligence,Full-Time
+IT Auditor,Audit IT systems,"Audit, Risk Management",Leeds,Audit Experts,Mid-Level,Audit,Full-Time
+Network Security Engineer,Secure networks,"Security, Firewall",Bristol,SecureNet,Mid-Level,Security,Full-Time
+Software Tester,Test software,"Manual Testing, Bug Tracking",Newcastle,QA Solutions,Entry-Level,Quality Assurance,Full-Time
+Cloud Solutions Architect,Design cloud solutions,"AWS, Azure, Cloud Architecture",Cardiff,Cloud Innovators,Senior,Cloud Computing,Full-Time
+IT Consultant,Provide IT consultancy,"Consulting, IT Strategy",Birmingham,IT Consultants,Senior,Consulting,Full-Time
+Front-end Developer,Develop web interfaces,"JavaScript, React",Edinburgh,Web Studios,Mid-Level,Web Development,Full-Time
+Business Analyst,Analyze business needs,"Business Analysis, Requirements",Glasgow,Biz Analysts,Mid-Level,Business Analysis,Full-Time
+IT Helpdesk Support,Provide IT support,"Troubleshooting, Customer Service",Leeds,IT Helpdesk,Entry-Level,Support,Full-Time
+DevSecOps Engineer,Secure DevOps pipeline,"DevSecOps, CI/CD",Bristol,Secure DevOps,Mid-Level,DevOps,Full-Time
+Data Engineer,Build data pipelines,"ETL, Big Data, SQL",Cardiff,Data Engineers,Mid-Level,Data Engineering,Full-Time
+IT Trainer,Train IT professionals,"Training, IT Education",Manchester,IT Training,Junior,Education,Full-Time
+Cloud Security Engineer,Secure cloud,"Cloud Security, Encryption",Birmingham,SecureCloud,Mid-Level,Security,Full-Time
+IT Procurement Specialist,Procure IT resources,"Procurement, Vendor Management",Edinburgh,ProcureIT,Mid-Level,Procurement,Full-Time
+UX Researcher,Conduct UX research,"User Research, UX Design",Glasgow,UX Labs,Mid-Level,Design,Full-Time
+Blockchain Developer,Develop blockchain,"Blockchain, Solidity",Leeds,Blockchain Tech,Mid-Level,Blockchain,Full-Time
+IT Risk Analyst,Analyze IT risks,"Risk Assessment, Compliance",Cardiff,Risk Analysts,Mid-Level,Risk Management,Full-Time
+Cloud Support Engineer,Support cloud,"AWS, Azure, Cloud Services",London,Cloud Support,Junior,Support,Full-Time
+IT Sales Manager,Manage IT sales team,"Sales, IT Sales",Manchester,Sales Leaders,Senior,Sales,Full-Time
+Data Privacy Officer,Ensure data privacy,"GDPR, Data Protection",Birmingham,Data Privacy,Mid-Level,Data Privacy,Full-Time
+Software Architect,Design software,"Architecture, Design Patterns",Edinburgh,Software Architects,Senior,Software Design,Full-Time
+IT Quality Analyst,Ensure software quality,"QA, Testing",Glasgow,QA Analysts,Mid-Level,Quality Assurance,Full-Time
+Mobile App Developer,Develop mobile apps,"iOS, Android, Mobile Development",Leeds,Mobile Devs,Mid-Level,Mobile Development,Full-Time
+IT Procurement Manager,Manage procurement,"Procurement, Supply Chain",Cardiff,Procurement Mgmt,Senior,Procurement,Full-Time
+IT Compliance Officer,Ensure IT compliance,"Compliance, Regulations",London,Compliance Experts,Mid-Level,Compliance,Full-Time
+Full-stack Developer,Develop full-stack apps,"JavaScript, Node.js",Manchester,Full-stack Devs,Mid-Level,Web Development,Full-Time
+IT Business Analyst,Analyze IT needs,"Business Analysis, IT Strategy",Birmingham,IT Analysts,Mid-Level,Business Analysis,Full-Time
+IT Trainer Assistant,Assist IT training,"Training, IT Education",Edinburgh,IT Training Assist,Entry-Level,Education,Full-Time
+AI Ethics Consultant,Ensure AI ethics,"Ethics, AI Governance",Glasgow,AI Ethics,Mid-Level,Ethics,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Leeds,IT Support Specialists,Junior,Support,Full-Time
+Data Analytics Manager,Manage data analytics,"Data Analytics, Team Management",Cardiff,Data Managers,Senior,Analytics,Full-Time
+IT Project Coordinator,Coordinate IT projects,Project Coordination,London,Project Coordinators,Mid-Level,Project Management,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Manchester,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance",Birmingham,IT Governance Mgmt,Senior,Governance,Full-Time
+Cybersecurity Engineer,Secure IT systems,"Cybersecurity, Penetration Testing",Edinburgh,Cybersecurity Engineers,Mid-Level,Security,Full-Time
+IT Procurement Analyst,Analyze IT procurement,Procurement Analysis,Glasgow,Procurement Analysts,Mid-Level,Procurement,Full-Time
+UX Designer,Design user experiences,"UX Design, Prototyping",Leeds,UX Designers,Mid-Level,Design,Full-Time
+Software Engineer,Develop software,"Java, Python, Software Development",London,Tech Solutions,Mid-Level,Software Development,Full-Time
+Data Analyst,Analyze data,"SQL, Data Visualization",Manchester,Data Insights,Junior,Data Analysis,Full-Time
+Network Engineer,Manage networks,"Cisco, Network Troubleshooting",Birmingham,Network Experts,Mid-Level,Networking,Full-Time
+Cloud Architect,Design cloud solutions,"AWS, Azure, Cloud Architecture",Edinburgh,Cloud Innovators,Senior,Cloud Computing,Full-Time
+Cybersecurity Analyst,Secure IT systems,"Cybersecurity, Threat Analysis",Glasgow,SecureGuard,Mid-Level,Security,Full-Time
+IT Project Manager,Manage projects,"PMP, Agile, Project Management",Leeds,Project Leaders,Senior,Project Management,Full-Time
+Data Scientist,Analyze big data,"R, Python, Machine Learning",Sheffield,Data Insights,Mid-Level,Data Science,Full-Time
+DevOps Engineer,Streamline devops,"Docker, Jenkins, DevOps",Cardiff,DevOps Solutions,Mid-Level,DevOps,Full-Time
+IT Support Analyst,Provide IT support,"Windows, Linux, Troubleshooting",London,IT Services,Entry-Level,Support,Full-Time
+UX/UI Designer,Design user interfaces,"UI/UX Design, Prototyping",Manchester,Design Studios,Junior,Design,Full-Time
+Database Analyst,Manage databases,"SQL, Oracle, Database Management",Birmingham,Data Solutions,Mid-Level,Database,Full-Time
+UI Developer,Design web interfaces,"HTML, CSS, JavaScript",Edinburgh,Web Creations,Junior,Web Development,Full-Time
+System Administrator,Maintain systems,"Windows Server, Networking",Glasgow,System Services,Mid-Level,IT Services,Full-Time
+AI/ML Engineer,Develop AI models,"Python, TensorFlow, AI/ML",Leeds,AI Innovations,Mid-Level,Artificial Intelligence,Full-Time
+IT Auditor,Audit IT systems,"Audit, Risk Management",Bristol,Audit Experts,Mid-Level,Audit,Full-Time
+Network Security Engineer,Secure networks,"Security, Firewall",Newcastle,SecureNet,Mid-Level,Security,Full-Time
+Software Tester,Test software,"Manual Testing, Bug Tracking",Cardiff,QA Solutions,Entry-Level,Quality Assurance,Full-Time
+Cloud Solutions Architect,Design cloud solutions,"AWS, Azure, Cloud Architecture",London,Cloud Architects,Senior,Cloud Computing,Full-Time
+IT Consultant,Provide IT consultancy,"Consulting, IT Strategy",Manchester,IT Consultants,Senior,Consulting,Full-Time
+Front-end Developer,Develop web interfaces,"JavaScript, React",Birmingham,Web Studios,Mid-Level,Web Development,Full-Time
+Business Analyst,Analyze business needs,"Business Analysis, Requirements",Edinburgh,Biz Analysts,Mid-Level,Business Analysis,Full-Time
+IT Helpdesk Support,Provide IT support,"Troubleshooting, Customer Service",Glasgow,IT Helpdesk,Entry-Level,Support,Full-Time
+DevSecOps Engineer,Secure DevOps pipeline,"DevSecOps, CI/CD",Leeds,Secure DevOps,Mid-Level,DevOps,Full-Time
+Data Engineer,Build data pipelines,"ETL, Big Data, SQL",Bristol,Data Engineers,Mid-Level,Data Engineering,Full-Time
+IT Trainer,Train IT professionals,"Training, IT Education",Newcastle,IT Training,Junior,Education,Full-Time
+Cloud Security Engineer,Secure cloud,"Cloud Security, Encryption",Cardiff,SecureCloud,Mid-Level,Security,Full-Time
+IT Procurement Specialist,Procure IT resources,"Procurement, Vendor Management",Edinburgh,ProcureIT,Mid-Level,Procurement,Full-Time
+UX Researcher,Conduct UX research,"User Research, UX Design",Glasgow,UX Labs,Mid-Level,Design,Full-Time
+Blockchain Developer,Develop blockchain,"Blockchain, Solidity",Leeds,Blockchain Tech,Mid-Level,Blockchain,Full-Time
+IT Risk Analyst,Analyze IT risks,"Risk Assessment, Compliance",Cardiff,Risk Analysts,Mid-Level,Risk Management,Full-Time
+Cloud Support Engineer,Support cloud,"AWS, Azure, Cloud Services",London,Cloud Support,Junior,Support,Full-Time
+IT Sales Manager,Manage IT sales team,"Sales, IT Sales",Manchester,Sales Leaders,Senior,Sales,Full-Time
+Data Privacy Officer,Ensure data privacy,"GDPR, Data Protection",Birmingham,Data Privacy,Mid-Level,Data Privacy,Full-Time
+Software Architect,Design software,"Architecture, Design Patterns",Edinburgh,Software Architects,Senior,Software Design,Full-Time
+IT Quality Analyst,Ensure software quality,"QA, Testing",Glasgow,QA Analysts,Mid-Level,Quality Assurance,Full-Time
+Mobile App Developer,Develop mobile apps,"iOS, Android, Mobile Development",Leeds,Mobile Devs,Mid-Level,Mobile Development,Full-Time
+IT Procurement Manager,Manage procurement,"Procurement, Supply Chain",Cardiff,Procurement Mgmt,Senior,Procurement,Full-Time
+IT Compliance Officer,Ensure IT compliance,"Compliance, Regulations",London,Compliance Experts,Mid-Level,Compliance,Full-Time
+Full-stack Developer,Develop full-stack apps,"JavaScript, Node.js",Manchester,Full-stack Devs,Mid-Level,Web Development,Full-Time
+IT Business Analyst,Analyze IT needs,"Business Analysis, IT Strategy",Birmingham,IT Analysts,Mid-Level,Business Analysis,Full-Time
+IT Trainer Assistant,Assist IT training,"Training, IT Education",Edinburgh,IT Training Assist,Entry-Level,Education,Full-Time
+AI Ethics Consultant,Ensure AI ethics,"Ethics, AI Governance",Glasgow,AI Ethics,Mid-Level,Ethics,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Leeds,IT Support Specialists,Junior,Support,Full-Time
+Data Analytics Manager,Manage data analytics,"Data Analytics, Team Management",Cardiff,Data Managers,Senior,Analytics,Full-Time
+IT Project Coordinator,Coordinate IT projects,Project Coordination,London,Project Coordinators,Mid-Level,Project Management,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Manchester,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance",Birmingham,IT Governance Mgmt,Senior,Governance,Full-Time
+Cybersecurity Engineer,Secure IT systems,"Cybersecurity, Penetration Testing",Edinburgh,Cybersecurity Engineers,Mid-Level,Security,Full-Time
+IT Procurement Analyst,Analyze IT procurement,Procurement Analysis,Glasgow,Procurement Analysts,Mid-Level,Procurement,Full-Time
+UX Designer,Design user experiences,"UX Design, Prototyping",Leeds,UX Designers,Mid-Level,Design,Full-Time
+Software Developer,Develop web applications,"Java, JavaScript, HTML/CSS",London,Tech Innovations,Mid-Level,Software Development,Full-Time
+Data Analyst,Analyze data trends,"SQL, Excel, Data Analysis",Manchester,Data Insights,Junior,Data Analysis,Full-Time
+Network Engineer,Manage network infrastructure,"Cisco, Networking",Birmingham,Network Experts,Mid-Level,Networking,Full-Time
+Cloud Architect,Design cloud solutions,"AWS, Azure, Cloud Design",Edinburgh,Cloud Innovators,Senior,Cloud Computing,Full-Time
+Cybersecurity Analyst,Ensure IT security,"Cybersecurity, Threat Detection",Glasgow,SecureGuard,Mid-Level,Security,Full-Time
+IT Project Manager,Manage IT projects,"Project Management, Agile",Leeds,Project Leaders,Senior,Project Management,Full-Time
+Data Scientist,Analyze big data,"Python, Machine Learning",Sheffield,Data Insights,Mid-Level,Data Science,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Cardiff,IT Support Experts,Junior,Support,Full-Time
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS",London,Web Creations,Mid-Level,Web Development,Full-Time
+Data Analyst,Analyze data trends,"SQL, Excel, Data Analysis",Manchester,Data Insights,Junior,Data Analysis,Full-Time
+Network Engineer,Manage network infrastructure,"Cisco, Networking",Birmingham,Network Experts,Mid-Level,Networking,Full-Time
+Cloud Architect,Design cloud solutions,"AWS, Azure, Cloud Design",Edinburgh,Cloud Innovations,Senior,Cloud Computing,Full-Time
+Cybersecurity Analyst,Ensure IT security,"Cybersecurity, Threat Detection",Glasgow,SecureGuard,Mid-Level,Security,Full-Time
+IT Project Manager,Manage IT projects,"Project Management, Agile",Leeds,Project Leaders,Senior,Project Management,Full-Time
+Data Scientist,Analyze big data,"Python, Machine Learning",Sheffield,Data Insights,Mid-Level,Data Science,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Manchester,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance",Birmingham,IT Governance Mgmt,Senior,Governance,Full-Time
+Software Developer,Develop software,"Java, Python, Software Development",Bristol,Tech Solutions,Mid-Level,Software Development,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Cardiff,IT Support Experts,Junior,Support,Full-Time
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS",London,Web Creations,Mid-Level,Web Development,Full-Time
+Data Analyst,Analyze data trends,"SQL, Excel, Data Analysis",Manchester,Data Insights,Junior,Data Analysis,Full-Time
+Network Engineer,Manage network infrastructure,"Cisco, Networking",Birmingham,Network Experts,Mid-Level,Networking,Full-Time
+Cloud Architect,Design cloud solutions,"AWS, Azure, Cloud Design",Edinburgh,Cloud Innovations,Senior,Cloud Computing,Full-Time
+Cybersecurity Analyst,Ensure IT security,"Cybersecurity, Threat Detection",Glasgow,SecureGuard,Mid-Level,Security,Full-Time
+IT Project Manager,Manage IT projects,"Project Management, Agile",Leeds,Project Leaders,Senior,Project Management,Full-Time
+Data Scientist,Analyze big data,"Python, Machine Learning",Sheffield,Data Insights,Mid-Level,Data Science,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Manchester,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance",Birmingham,IT Governance Mgmt,Senior,Governance,Full-Time
+Software Developer,Develop software,"Java, Python, Software Development",Bristol,Tech Solutions,Mid-Level,Software Development,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Glasgow,IT Solutions,Junior,Support,Full-Time
+DevOps Engineer,Streamline devops,"Docker, Jenkins, DevOps",London,DevOps Solutions,Mid-Level,DevOps,Full-Time
+Database Administrator,Manage databases,"SQL, Database Management",Manchester,Data Management,Mid-Level,Database,Full-Time
+UX Designer,Design user experiences,"UX Design, Prototyping",Birmingham,UX Innovations,Junior,Design,Full-Time
+IT Consultant,Provide IT consultancy,"Consulting, IT Strategy",Edinburgh,IT Consultancy,Senior,Consulting,Full-Time
+Software Tester,Test software,"Manual Testing, Bug Tracking",Glasgow,QA Solutions,Junior,Quality Assurance,Full-Time
+IT Security Analyst,Ensure IT security,"Security, Threat Analysis",Leeds,SecureIT,Mid-Level,Security,Full-Time
+Data Engineer,Build data pipelines,"ETL, Big Data, SQL",Bristol,Data Engineers,Mid-Level,Data Engineering,Full-Time
+Front-end Developer,Develop web interfaces,"HTML, CSS, JavaScript",Sheffield,Web Studios,Mid-Level,Web Development,Full-Time
+AI/ML Engineer,Develop AI models,"Python, TensorFlow, AI/ML",Newcastle,AI Innovations,Mid-Level,Artificial Intelligence,Full-Time
+IT Auditor,Audit IT systems,"Audit, Risk Management",Cardiff,Audit Experts,Mid-Level,Audit,Full-Time
+IT Trainer,Train IT professionals,"Training, IT Education",Liverpool,IT Training,Junior,Education,Full-Time
+Cloud Security Engineer,Secure cloud,"Cloud Security, Encryption",Nottingham,SecureCloud,Mid-Level,Security,Full-Time
+IT Procurement Specialist,Procure IT resources,"Procurement, Vendor Management",Sheffield,ProcureIT,Mid-Level,Procurement,Full-Time
+UX Researcher,Conduct UX research,"User Research, UX Design",Bristol,UX Labs,Junior,Design,Full-Time
+Blockchain Developer,Develop blockchain,"Blockchain, Solidity",Liverpool,Blockchain Tech,Mid-Level,Blockchain,Full-Time
+IT Risk Analyst,Analyze IT risks,"Risk Assessment, Compliance",Nottingham,Risk Analysts,Mid-Level,Risk Management,Full-Time
+Cloud Support Engineer,Support cloud,"AWS, Azure, Cloud Services",Sheffield,Cloud Support,Junior,Support,Full-Time
+IT Sales Manager,Manage IT sales team,"Sales, IT Sales",Manchester,Sales Leaders,Senior,Sales,Full-Time
+Data Privacy Officer,Ensure data privacy,"GDPR, Data Protection",Birmingham,Data Privacy,Mid-Level,Data Privacy,Full-Time
+Software Architect,Design software,"Architecture, Design Patterns",Nottingham,Software Architects,Senior,Software Design,Full-Time
+IT Quality Analyst,Ensure software quality,"QA, Testing",Sheffield,QA Analysts,Mid-Level,Quality Assurance,Full-Time
+Mobile App Developer,Develop mobile apps,"iOS, Android, Mobile Development",Liverpool,Mobile Devs,Mid-Level,Mobile Development,Full-Time
+IT Procurement Manager,Manage procurement,"Procurement, Supply Chain",Nottingham,Procurement Mgmt,Senior,Procurement,Full-Time
+IT Compliance Officer,Ensure IT compliance,"Compliance, Regulations",Manchester,Compliance Experts,Mid-Level,Compliance,Full-Time
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS",Birmingham,Web Creations,Mid-Level,Web Development,Full-Time
+IT Business Analyst,Analyze IT needs,"Business Analysis, IT Strategy",Edinburgh,IT Analysts,Mid-Level,Business Analysis,Full-Time
+IT Trainer,Train IT professionals,"Training, IT Education",Glasgow,IT Training,Junior,Education,Full-Time
+AI Ethics Consultant,Ensure AI ethics,"Ethics, AI Governance",Leeds,AI Ethics,Senior,Ethics,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Sheffield,IT Support Specialists,Mid-Level,Support,Full-Time
+Data Analytics Manager,Manage data analytics,"Data Analytics, Team Management",Nottingham,Data Managers,Senior,Analytics,Full-Time
+IT Project Coordinator,Coordinate IT projects,Project Coordination,Liverpool,Project Coordinators,Mid-Level,Project Management,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Birmingham,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Cardiff,IT Support Experts,Junior,Support,Full-Time
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS",London,Web Creations,Mid-Level,Web Development,Full-Time
+Data Analyst,Analyze data trends,"SQL, Excel, Data Analysis",Manchester,Data Insights,Junior,Data Analysis,Full-Time
+Network Engineer,Manage network infrastructure,"Cisco, Networking",Birmingham,Network Experts,Mid-Level,Networking,Full-Time
+Cloud Architect,Design cloud solutions,"AWS, Azure, Cloud Design",Edinburgh,Cloud Innovations,Senior,Cloud Computing,Full-Time
+Cybersecurity Analyst,Ensure IT security,"Cybersecurity, Threat Detection",Glasgow,SecureGuard,Mid-Level,Security,Full-Time
+IT Project Manager,Manage IT projects,"Project Management, Agile",Leeds,Project Leaders,Senior,Project Management,Full-Time
+Data Scientist,Analyze big data,"Python, Machine Learning",Sheffield,Data Insights,Mid-Level,Data Science,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Manchester,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance",Birmingham,IT Governance Mgmt,Senior,Governance,Full-Time
+Software Developer,Develop software,"Java, Python, Software Development",Bristol,Tech Solutions,Mid-Level,Software Development,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Glasgow,IT Solutions,Junior,Support,Full-Time
+DevOps Engineer,Streamline devops,"Docker, Jenkins, DevOps",London,DevOps Solutions,Mid-Level,DevOps,Full-Time
+Database Administrator,Manage databases,"SQL, Database Management",Manchester,Data Management,Mid-Level,Database,Full-Time
+UX Designer,Design user experiences,"UX Design, Prototyping",Birmingham,UX Innovations,Junior,Design,Full-Time
+IT Consultant,Provide IT consultancy,"Consulting, IT Strategy",Edinburgh,IT Consultancy,Senior,Consulting,Full-Time
+Software Tester,Test software,"Manual Testing, Bug Tracking",Glasgow,QA Solutions,Junior,Quality Assurance,Full-Time
+IT Security Analyst,Ensure IT security,"Security, Threat Analysis",Leeds,SecureIT,Mid-Level,Security,Full-Time
+Data Engineer,Build data pipelines,"ETL, Big Data, SQL",Bristol,Data Engineers,Mid-Level,Data Engineering,Full-Time
+Front-end Developer,Develop web interfaces,"HTML, CSS, JavaScript",Sheffield,Web Studios,Mid-Level,Web Development,Full-Time
+AI/ML Engineer,Develop AI models,"Python, TensorFlow, AI/ML",Newcastle,AI Innovations,Mid-Level,Artificial Intelligence,Full-Time
+IT Auditor,Audit IT systems,"Audit, Risk Management",Cardiff,Audit Experts,Mid-Level,Audit,Full-Time
+IT Trainer,Train IT professionals,"Training, IT Education",Liverpool,IT Training,Junior,Education,Full-Time
+Cloud Security Engineer,Secure cloud,"Cloud Security, Encryption",Nottingham,SecureCloud,Mid-Level,Security,Full-Time
+IT Procurement Specialist,Procure IT resources,"Procurement, Vendor Management",Sheffield,ProcureIT,Mid-Level,Procurement,Full-Time
+UX Researcher,Conduct UX research,"User Research, UX Design",Bristol,UX Labs,Junior,Design,Full-Time
+Blockchain Developer,Develop blockchain,"Blockchain, Solidity",Liverpool,Blockchain Tech,Mid-Level,Blockchain,Full-Time
+IT Risk Analyst,Analyze IT risks,"Risk Assessment, Compliance",Nottingham,Risk Analysts,Mid-Level,Risk Management,Full-Time
+Cloud Support Engineer,Support cloud,"AWS, Azure, Cloud Services",Sheffield,Cloud Support,Junior,Support,Full-Time
+IT Sales Manager,Manage IT sales team,"Sales, IT Sales",Manchester,Sales Leaders,Senior,Sales,Full-Time
+Data Privacy Officer,Ensure data privacy,"GDPR, Data Protection",Birmingham,Data Privacy,Mid-Level,Data Privacy,Full-Time
+Software Architect,Design software,"Architecture, Design Patterns",Nottingham,Software Architects,Senior,Software Design,Full-Time
+IT Quality Analyst,Ensure software quality,"QA, Testing",Sheffield,QA Analysts,Mid-Level,Quality Assurance,Full-Time
+Mobile App Developer,Develop mobile apps,"iOS, Android, Mobile Development",Liverpool,Mobile Devs,Mid-Level,Mobile Development,Full-Time
+IT Procurement Manager,Manage procurement,"Procurement, Supply Chain",Nottingham,Procurement Mgmt,Senior,Procurement,Full-Time
+IT Compliance Officer,Ensure IT compliance,"Compliance, Regulations",Manchester,Compliance Experts,Mid-Level,Compliance,Full-Time
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS",Birmingham,Web Creations,Mid-Level,Web Development,Full-Time
+IT Business Analyst,Analyze IT needs,"Business Analysis, IT Strategy",Edinburgh,IT Analysts,Mid-Level,Business Analysis,Full-Time
+IT Trainer,Train IT professionals,"Training, IT Education",Glasgow,IT Training,Junior,Education,Full-Time
+AI Ethics Consultant,Ensure AI ethics,"Ethics, AI Governance",Leeds,AI Ethics,Senior,Ethics,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Sheffield,IT Support Specialists,Mid-Level,Support,Full-Time
+Data Analytics Manager,Manage data analytics,"Data Analytics, Team Management",Nottingham,Data Managers,Senior,Analytics,Full-Time
+IT Project Coordinator,Coordinate IT projects,Project Coordination,Liverpool,Project Coordinators,Mid-Level,Project Management,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Birmingham,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Cardiff,IT Support Experts,Junior,Support,Full-Time
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS",London,Web Creations,Mid-Level,Web Development,Full-Time
+Data Analyst,Analyze data trends,"SQL, Excel, Data Analysis",Manchester,Data Insights,Junior,Data Analysis,Full-Time
+Network Engineer,Manage network infrastructure,"Cisco, Networking",Birmingham,Network Experts,Mid-Level,Networking,Full-Time
+Cloud Architect,Design cloud solutions,"AWS, Azure, Cloud Design",Edinburgh,Cloud Innovations,Senior,Cloud Computing,Full-Time
+Cybersecurity Analyst,Ensure IT security,"Cybersecurity, Threat Detection",Glasgow,SecureGuard,Mid-Level,Security,Full-Time
+IT Project Manager,Manage IT projects,"Project Management, Agile",Leeds,Project Leaders,Senior,Project Management,Full-Time
+Data Scientist,Analyze big data,"Python, Machine Learning",Sheffield,Data Insights,Mid-Level,Data Science,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Manchester,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance",Birmingham,IT Governance Mgmt,Senior,Governance,Full-Time
+Software Developer,Develop software,"Java, Python, Software Development",Bristol,Tech Solutions,Mid-Level,Software Development,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Glasgow,IT Solutions,Junior,Support,Full-Time
+DevOps Engineer,Streamline devops,"Docker, Jenkins, DevOps",London,DevOps Solutions,Mid-Level,DevOps,Full-Time
+Database Administrator,Manage databases,"SQL, Database Management",Manchester,Data Management,Mid-Level,Database,Full-Time
+UX Designer,Design user experiences,"UX Design, Prototyping",Birmingham,UX Innovations,Junior,Design,Full-Time
+IT Consultant,Provide IT consultancy,"Consulting, IT Strategy",Edinburgh,IT Consultancy,Senior,Consulting,Full-Time
+Software Tester,Test software,"Manual Testing, Bug Tracking",Glasgow,QA Solutions,Junior,Quality Assurance,Full-Time
+IT Security Analyst,Ensure IT security,"Security, Threat Analysis",Leeds,SecureIT,Mid-Level,Security,Full-Time
+Data Engineer,Build data pipelines,"ETL, Big Data, SQL",Bristol,Data Engineers,Mid-Level,Data Engineering,Full-Time
+Front-end Developer,Develop web interfaces,"HTML, CSS, JavaScript",Sheffield,Web Studios,Mid-Level,Web Development,Full-Time
+AI/ML Engineer,Develop AI models,"Python, TensorFlow, AI/ML",Newcastle,AI Innovations,Mid-Level,Artificial Intelligence,Full-Time
+IT Auditor,Audit IT systems,"Audit, Risk Management",Cardiff,Audit Experts,Mid-Level,Audit,Full-Time
+IT Trainer,Train IT professionals,"Training, IT Education",Liverpool,IT Training,Junior,Education,Full-Time
+Cloud Security Engineer,Secure cloud,"Cloud Security, Encryption",Nottingham,SecureCloud,Mid-Level,Security,Full-Time
+IT Procurement Specialist,Procure IT resources,"Procurement, Vendor Management",Sheffield,ProcureIT,Mid-Level,Procurement,Full-Time
+UX Researcher,Conduct UX research,"User Research, UX Design",Bristol,UX Labs,Junior,Design,Full-Time
+Blockchain Developer,Develop blockchain,"Blockchain, Solidity",Liverpool,Blockchain Tech,Mid-Level,Blockchain,Full-Time
+IT Risk Analyst,Analyze IT risks,"Risk Assessment, Compliance",Nottingham,Risk Analysts,Mid-Level,Risk Management,Full-Time
+Cloud Support Engineer,Support cloud,"AWS, Azure, Cloud Services",Sheffield,Cloud Support,Junior,Support,Full-Time
+IT Sales Manager,Manage IT sales team,"Sales, IT Sales",Manchester,Sales Leaders,Senior,Sales,Full-Time
+Data Privacy Officer,Ensure data privacy,"GDPR, Data Protection",Birmingham,Data Privacy,Mid-Level,Data Privacy,Full-Time
+Software Architect,Design software,"Architecture, Design Patterns",Nottingham,Software Architects,Senior,Software Design,Full-Time
+IT Quality Analyst,Ensure software quality,"QA, Testing",Sheffield,QA Analysts,Mid-Level,Quality Assurance,Full-Time
+Mobile App Developer,Develop mobile apps,"iOS, Android, Mobile Development",Liverpool,Mobile Devs,Mid-Level,Mobile Development,Full-Time
+IT Procurement Manager,Manage procurement,"Procurement, Supply Chain",Nottingham,Procurement Mgmt,Senior,Procurement,Full-Time
+IT Compliance Officer,Ensure IT compliance,"Compliance, Regulations",Manchester,Compliance Experts,Mid-Level,Compliance,Full-Time
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS",Birmingham,Web Creations,Mid-Level,Web Development,Full-Time
+IT Business Analyst,Analyze IT needs,"Business Analysis, IT Strategy",Edinburgh,IT Analysts,Mid-Level,Business Analysis,Full-Time
+IT Trainer,Train IT professionals,"Training, IT Education",Glasgow,IT Training,Junior,Education,Full-Time
+AI Ethics Consultant,Ensure AI ethics,"Ethics, AI Governance",Leeds,AI Ethics,Senior,Ethics,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Sheffield,IT Support Specialists,Mid-Level,Support,Full-Time
+Data Analytics Manager,Manage data analytics,"Data Analytics, Team Management",Nottingham,Data Managers,Senior,Analytics,Full-Time
+IT Project Coordinator,Coordinate IT projects,Project Coordination,Liverpool,Project Coordinators,Mid-Level,Project Management,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Birmingham,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Cardiff,IT Support Experts,Junior,Support,Full-Time
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS",London,Web Creations,Mid-Level,Web Development,Full-Time
+Data Analyst,Analyze data trends,"SQL, Excel, Data Analysis",Manchester,Data Insights,Junior,Data Analysis,Full-Time
+Network Engineer,Manage network infrastructure,"Cisco, Networking",Birmingham,Network Experts,Mid-Level,Networking,Full-Time
+Cloud Architect,Design cloud solutions,"AWS, Azure, Cloud Design",Edinburgh,Cloud Innovations,Senior,Cloud Computing,Full-Time
+Cybersecurity Analyst,Ensure IT security,"Cybersecurity, Threat Detection",Glasgow,SecureGuard,Mid-Level,Security,Full-Time
+IT Project Manager,Manage IT projects,"Project Management, Agile",Leeds,Project Leaders,Senior,Project Management,Full-Time
+Data Scientist,Analyze big data,"Python, Machine Learning",Sheffield,Data Insights,Mid-Level,Data Science,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Manchester,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time
+IT Governance Manager,Manage IT governance,"IT Governance, Compliance",Birmingham,IT Governance Mgmt,Senior,Governance,Full-Time
+Software Developer,Develop software,"Java, Python, Software Development",Bristol,Tech Solutions,Mid-Level,Software Development,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Glasgow,IT Solutions,Junior,Support,Full-Time
+DevOps Engineer,Streamline devops,"Docker, Jenkins, DevOps",London,DevOps Solutions,Mid-Level,DevOps,Full-Time
+Database Administrator,Manage databases,"SQL, Database Management",Manchester,Data Management,Mid-Level,Database,Full-Time
+UX Designer,Design user experiences,"UX Design, Prototyping",Birmingham,UX Innovations,Junior,Design,Full-Time
+IT Consultant,Provide IT consultancy,"Consulting, IT Strategy",Edinburgh,IT Consultancy,Senior,Consulting,Full-Time
+Software Tester,Test software,"Manual Testing, Bug Tracking",Glasgow,QA Solutions,Junior,Quality Assurance,Full-Time
+IT Security Analyst,Ensure IT security,"Security, Threat Analysis",Leeds,SecureIT,Mid-Level,Security,Full-Time
+Data Engineer,Build data pipelines,"ETL, Big Data, SQL",Bristol,Data Engineers,Mid-Level,Data Engineering,Full-Time
+Front-end Developer,Develop web interfaces,"HTML, CSS, JavaScript",Sheffield,Web Studios,Mid-Level,Web Development,Full-Time
+AI/ML Engineer,Develop AI models,"Python, TensorFlow, AI/ML",Newcastle,AI Innovations,Mid-Level,Artificial Intelligence,Full-Time
+IT Auditor,Audit IT systems,"Audit, Risk Management",Cardiff,Audit Experts,Mid-Level,Audit,Full-Time
+IT Trainer,Train IT professionals,"Training, IT Education",Liverpool,IT Training,Junior,Education,Full-Time
+Cloud Security Engineer,Secure cloud,"Cloud Security, Encryption",Nottingham,SecureCloud,Mid-Level,Security,Full-Time
+IT Procurement Specialist,Procure IT resources,"Procurement, Vendor Management",Sheffield,ProcureIT,Mid-Level,Procurement,Full-Time
+UX Researcher,Conduct UX research,"User Research, UX Design",Bristol,UX Labs,Junior,Design,Full-Time
+Blockchain Developer,Develop blockchain,"Blockchain, Solidity",Liverpool,Blockchain Tech,Mid-Level,Blockchain,Full-Time
+IT Risk Analyst,Analyze IT risks,"Risk Assessment, Compliance",Nottingham,Risk Analysts,Mid-Level,Risk Management,Full-Time
+Cloud Support Engineer,Support cloud,"AWS, Azure, Cloud Services",Sheffield,Cloud Support,Junior,Support,Full-Time
+IT Sales Manager,Manage IT sales team,"Sales, IT Sales",Manchester,Sales Leaders,Senior,Sales,Full-Time
+Data Privacy Officer,Ensure data privacy,"GDPR, Data Protection",Birmingham,Data Privacy,Mid-Level,Data Privacy,Full-Time
+Software Architect,Design software,"Architecture, Design Patterns",Nottingham,Software Architects,Senior,Software Design,Full-Time
+IT Quality Analyst,Ensure software quality,"QA, Testing",Sheffield,QA Analysts,Mid-Level,Quality Assurance,Full-Time
+Mobile App Developer,Develop mobile apps,"iOS, Android, Mobile Development",Liverpool,Mobile Devs,Mid-Level,Mobile Development,Full-Time
+IT Procurement Manager,Manage procurement,"Procurement, Supply Chain",Nottingham,Procurement Mgmt,Senior,Procurement,Full-Time
+IT Compliance Officer,Ensure IT compliance,"Compliance, Regulations",Manchester,Compliance Experts,Mid-Level,Compliance,Full-Time
+Full-stack Developer,Develop web applications,"JavaScript, Node.js, HTML/CSS",Birmingham,Web Creations,Mid-Level,Web Development,Full-Time
+IT Business Analyst,Analyze IT needs,"Business Analysis, IT Strategy",Edinburgh,IT Analysts,Mid-Level,Business Analysis,Full-Time
+IT Trainer,Train IT professionals,"Training, IT Education",Glasgow,IT Training,Junior,Education,Full-Time
+AI Ethics Consultant,Ensure AI ethics,"Ethics, AI Governance",Leeds,AI Ethics,Senior,Ethics,Full-Time
+IT Support Specialist,Provide IT support,"Windows, Troubleshooting",Sheffield,IT Support Specialists,Mid-Level,Support,Full-Time
+Data Analytics Manager,Manage data analytics,"Data Analytics, Team Management",Nottingham,Data Managers,Senior,Analytics,Full-Time
+IT Project Coordinator,Coordinate IT projects,Project Coordination,Liverpool,Project Coordinators,Mid-Level,Project Management,Full-Time
+Cloud Solutions Analyst,Analyze cloud solutions,"AWS, Azure, Cloud Analysis",Birmingham,Cloud Analysts,Mid-Level,Cloud Computing,Full-Time

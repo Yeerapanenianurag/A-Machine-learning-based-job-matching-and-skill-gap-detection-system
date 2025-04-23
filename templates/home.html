@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JobMatch AI</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/test.css') }}">
+</head>
+<body>
+  <div class="container">
+    <!-- Header -->
+    <header>
+      <div class="logo">JobMatch AI</div>
+      <nav>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+        <button class="sign-in">Sign In</button>
+      </nav>
+    </header>
+
+    <!-- Main Sections -->
+    <main>
+      <!-- Home Section -->
+      <section class="home-section">
+        <h1>Find Your Dream Career</h1>
+        <p>Discover career opportunities, analyze skill gaps, and learn how to achieve your career goals</p>
+        <div class="cards">
+          <div class="card">
+            <h2>Skill Analysis</h2>
+            <p>Enter your skills and discover all the jobs you're qualified for</p>
+            <a href="#">→</a>
+          </div>
+          <div class="card">
+            <h2>Skill Gap Analysis</h2>
+            <p>Find out what skills you need to acquire for your dream job</p>
+            <a href="#">→</a>
+          </div>
+          <div class="card">
+            <h2>Explore Jobs</h2>
+            <p>Browse trending jobs and discover opportunities</p>
+            <a href="#">→</a>
+          </div>
+          <div class="card">
+            <h2>Career Roadmaps</h2>
+            <p>Step-by-step guides to achieve your career goals</p>
+            <a href="#">→</a>
+          </div>
+        </div>
+      </section>
+
+      <!-- Skill Gap Analysis Section -->
+      <section class="skill-gap-section">
+        <a href="#" class="back-link">← Back</a>
+        <h1>Skill Gap Analysis</h1>
+        <p>Find out what skills you need for your dream job</p>
+        <div class="form-group">
+          <label for="skills">Your Skills</label>
+          <input type="text" id="skills" placeholder="Type a skill (e.g., JavaScript, Project Management)">
+        </div>
+        <div class="form-group">
+          <label for="target-job">Select Target Job</label>
+          <select id="target-job">
+            <option>Select a job...</option>
+            <option>Data Scientist</option>
+            <option>DevOps Engineer</option>
+          </select>
+        </div>
+        <button class="analyze-btn">Analyze Skill Gap</button>
+      </section>
+
+      <!-- Trending Jobs Section -->
+      <section class="trending-jobs-section">
+        <a href="#" class="back-link">← Back</a>
+        <h1>Trending Jobs</h1>
+        <p>Explore current job openings and their required skills</p>
+        <div class="search-group">
+          <input type="text" placeholder="Search jobs or skills...">
+        </div>
+        <div class="job-cards">
+          <div class="job-card">
+            <h2>Digital Media Planner</h2>
+            <p>💼 Advertising, PR, HR, Event Management</p>
+            <p>⏳ 5 - 10 yrs</p>
+            <p>💰 ₹105000/Year</p>
+            <p>Required Skills: Media Planning, Content Planning</p>
+          </div>
+          <div class="job-card">
+            <h2>DevOps Engineer</h2>
+            <p>💼 IT Software</p>
+            <p>⏳ 3 - 7 yrs</p>
+            <p>💰 ₹75000/Year</p>
+            <p>Required Skills: Docker, Kubernetes</p>
+          </div>
+          <div class="job-card">
+            <h2>Data Scientist</h2>
+            <p>💼 IT Software</p>
+            <p>⏳ 4 - 8 yrs</p>
+            <p>💰 ₹120000/Year</p>
+            <p>Required Skills: Machine Learning, SQL</p>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+</body>
+</html>

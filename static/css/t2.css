@@ -1,0 +1,94 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fc;
+  color: #333;
+}
+
+/* Header Styles */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+header .logo {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #6b47dc;
+}
+header nav a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: #6b47dc;
+  font-weight: 600;
+}
+header nav a:hover {
+  text-decoration: underline;
+}
+
+/* Main Section */
+.home-section {
+  text-align: center;
+  padding: 60px 20px;
+}
+.home-section h1 {
+  font-size: 2.5em;
+  color: #6b47dc;
+}
+.home-section p {
+  font-size: 1.2em;
+  color: #666;
+  margin-top: 10px;
+}
+.skills-input {
+  margin-top: 30px;
+}
+.skills-input label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 1em;
+  font-weight: bold;
+}
+.skills-input input {
+  width: 80%;
+  max-width: 500px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1em;
+}
+
+/* Buttons */
+button,
+input[type="submit"] {
+  background-color: #6b47dc;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+button:hover,
+input[type="submit"]:hover {
+  background-color: #5a3dbd;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+    text-align: center;
+  }
+  .home-section h1 {
+    font-size: 2em;
+  }
+  .skills-input input {
+    width: 90%;
+  }
+}
